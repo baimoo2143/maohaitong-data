@@ -237,5 +237,17 @@
     "category": "公園",
     "is24h": false,
     "source": "高雄市觀光局"
+  },
+  {
+  "id": "KHH020",
+  "city": "高雄市",
+  "name": "幸福毛毛寵物美容",
+  "address": "高雄市左營區自由二路168號",
+  "phone": "07-552-8899",
+  "category": "美容",
+  "rating": 4.3,
+  "is24h": false,
+  "source": "高雄寵物美容店推薦"
   }
 ]
+
