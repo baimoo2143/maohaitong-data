@@ -22,22 +22,11 @@
     "source": "冠強平價寵物友善住宿清單"
   },
   {
-    "id": "TPE005",
-    "city": "台北市",
-    "name": "金普頓大安酒店",
-    "address": "台北市大安區仁愛路四段27巷25號",
-    "phone": "",
-    "category": "住宿",
-    "rating": 3.5,
-    "is24h": false,
-    "source": "寵物友善飯店清單"
-  },
-  {
     "id": "TPE001",
     "city": "台北市",
     "name": "台北分院 24 小時寵物急診",
     "address": "台北市內湖區舊宗路一段30巷13號",
-    "phone": "02-8791-8706 / 02-7730-6195",
+    "phone": "02-8791-8706",
     "category": "醫院",
     "rating": 3.5,
     "is24h": true,
@@ -48,7 +37,7 @@
     "city": "台北市",
     "name": "大安動物醫院",
     "address": "台北市中正區新生南路一段162號",
-    "phone": "02-2358-1199 / 0986-125-003",
+    "phone": "02-2358-1199",
     "category": "醫院",
     "rating": 3.5,
     "is24h": true,
@@ -59,7 +48,7 @@
     "city": "台北市",
     "name": "大群動物醫院",
     "address": "台北市文山區羅斯福路六段136號1樓",
-    "phone": "02-7750-5028 / 0982-966-674",
+    "phone": "02-7750-5028",
     "category": "醫院",
     "rating": 3.5,
     "is24h": true,
@@ -75,6 +64,70 @@
     "rating": 3.5,
     "is24h": true,
     "source": "sofydog / moreson 24 小時清單"
+  },
+  {
+    "id": "TPE005",
+    "city": "台北市",
+    "name": "金普頓大安酒店",
+    "address": "台北市大安區仁愛路四段27巷25號",
+    "phone": "",
+    "category": "住宿",
+    "rating": 3.5,
+    "is24h": false,
+    "source": "寵物友善飯店清單"
+  },
+  {
+    "id": "TPE010",
+    "city": "台北市",
+    "name": "華山狗活動區",
+    "address": "台北市中正區八德路一段1號",
+    "phone": "",
+    "category": "公園",
+    "is24h": false,
+    "source": "台北市動保處"
+  },
+  {
+  "id": "TPE020",
+  "city": "台北市",
+  "name": "毛孩造型寵物美容館",
+  "address": "台北市大安區和平東路二段88號",
+  "phone": "02-2733-5566",
+  "category": "美容",
+  "rating": 4.2,
+  "is24h": false,
+  "source": "台北寵物美容店清單"
+  },
+  {
+    "id": "NTP001",
+    "city": "新北市",
+    "name": "中日動物醫院",
+    "address": "新北市中和區中山路三段2號",
+    "phone": "02-2226-3639",
+    "category": "醫院",
+    "rating": 3.5,
+    "is24h": true,
+    "source": "急診醫院清單"
+  },
+  {
+    "id": "NTP002",
+    "city": "新北市",
+    "name": "歐悅連鎖精品汽車旅館 - 林口館",
+    "address": "新北市林口區文化三路二段115巷163號",
+    "phone": "02-2608-6611",
+    "category": "住宿",
+    "rating": 3.5,
+    "is24h": false,
+    "source": "GOMAJI 標示寵物友善"
+  },
+  {
+    "id": "NTP010",
+    "city": "新北市",
+    "name": "迎風狗運動公園",
+    "address": "新北市八里區觀海大道36號",
+    "phone": "",
+    "category": "公園",
+    "is24h": false,
+    "source": "新北市政府公告"
   },
   {
     "id": "TNN001",
@@ -121,28 +174,6 @@
     "source": "冠強平價寵物友善住宿清單"
   },
   {
-    "id": "NTP002",
-    "city": "新北市",
-    "name": "歐悅連鎖精品汽車旅館 - 林口館",
-    "address": "新北市林口區文化三路二段115巷163號",
-    "phone": "(02)2608-6611",
-    "category": "住宿",
-    "rating": 3.5,
-    "is24h": false,
-    "source": "GOMAJI 標示寵物友善"
-  },
-  {
-    "id": "NTP001",
-    "city": "新北市",
-    "name": "中日動物醫院",
-    "address": "新北市中和區中山路三段2號",
-    "phone": "02-2226-3639",
-    "category": "醫院",
-    "rating": 3.5,
-    "is24h": true,
-    "source": "急診醫院清單"
-  },
-  {
     "id": "TYC001",
     "city": "桃園市",
     "name": "蹤遊三四五",
@@ -152,28 +183,6 @@
     "rating": 3.5,
     "is24h": false,
     "source": "冠強平價寵物友善住宿清單"
-  },
-  {
-    "id": "KHH003",
-    "city": "高雄市",
-    "name": "中央公園英迪格酒店",
-    "address": "高雄市新興區中山一路202號",
-    "phone": "",
-    "category": "住宿",
-    "rating": 3.5,
-    "is24h": false,
-    "source": "高雄寵物友善住宿推薦"
-  },
-  {
-    "id": "KHH004",
-    "city": "高雄市",
-    "name": "西悠巢旅 高雄車站館",
-    "address": "高雄市三民區建國二路11號",
-    "phone": "",
-    "category": "住宿",
-    "rating": 3.5,
-    "is24h": false,
-    "source": "高雄寵物友善住宿推薦"
   },
   {
     "id": "KHH001",
@@ -198,24 +207,26 @@
     "source": "高雄動物醫院資料"
   },
   {
-    "id": "NTP010",
-    "city": "新北市",
-    "name": "迎風狗運動公園",
-    "address": "新北市八里區觀海大道36號",
+    "id": "KHH003",
+    "city": "高雄市",
+    "name": "中央公園英迪格酒店",
+    "address": "高雄市新興區中山一路202號",
     "phone": "",
-    "category": "公園",
+    "category": "住宿",
+    "rating": 3.5,
     "is24h": false,
-    "source": "新北市政府公告"
+    "source": "高雄寵物友善住宿推薦"
   },
   {
-    "id": "TPE010",
-    "city": "台北市",
-    "name": "華山狗活動區",
-    "address": "台北市中正區八德路一段1號",
+    "id": "KHH004",
+    "city": "高雄市",
+    "name": "西悠巢旅 高雄車站館",
+    "address": "高雄市三民區建國二路11號",
     "phone": "",
-    "category": "公園",
+    "category": "住宿",
+    "rating": 3.5,
     "is24h": false,
-    "source": "台北市動保處"
+    "source": "高雄寵物友善住宿推薦"
   },
   {
     "id": "KHH010",
@@ -228,8 +239,3 @@
     "source": "高雄市觀光局"
   }
 ]
-
-
-
-
-
