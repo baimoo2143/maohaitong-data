@@ -1,7 +1,7 @@
 import os, io, csv, json, requests, traceback
 from datetime import datetime
 
-# API 來源清單（目前 8 縣市，後續可補齊）
+# 📌 API 來源清單（目前已含 9 個縣市，之後可擴充）
 sources = [
     {
         "city": "新北市",
@@ -51,9 +51,11 @@ sources = [
     }
 ]
 
+# 📌 縣市名稱正規化
 def normalize_city(name: str) -> str:
     return name.replace("臺", "台").strip() if name else ""
 
+# 📌 抓取單一來源
 def fetch_source(src):
     data = []
     try:
@@ -61,7 +63,6 @@ def fetch_source(src):
         resp = requests.get(src["url"], timeout=20)
         resp.raise_for_status()
 
-        # 嘗試多種 JSON 結構
         if src["format"] == "json":
             raw = resp.json()
             if isinstance(raw, list):
@@ -104,6 +105,7 @@ def fetch_source(src):
 
     return data
 
+# 📌 載入手動補充資料
 def load_manual():
     try:
         if os.path.exists("data/places_manual.json"):
@@ -113,6 +115,7 @@ def load_manual():
         print(f"⚠️ 手動補充讀取失敗: {e}")
     return []
 
+# 📌 主程式
 def main():
     all_places = []
     city_counts = {}
@@ -130,11 +133,11 @@ def main():
         print(f"➕ 加入手動補充 {len(manual)} 筆")
         all_places.extend(manual)
 
-    # 加上唯一 ID
     for i, item in enumerate(all_places, start=1):
         item["id"] = str(i)
 
     os.makedirs("data", exist_ok=True)
+
     with open("data/places_auto.json", "w", encoding="utf-8") as f:
         json.dump(all_places, f, ensure_ascii=False, indent=2)
 
@@ -164,6 +167,7 @@ def main():
 
     print(f"\n🎉 完成！共 {len(all_places)} 筆")
 
+# 📌 入口點
 if __name__ == "__main__":
     try:
         main()
