@@ -2,29 +2,24 @@ import requests
 import csv
 import io
 import json
+import os
 from datetime import datetime
 
-# ✅ 來源清單
+# ✅ API 來源清單（目前先放幾個示範，後續可以再加）
 sources = [
     {
         "city": "新北市",
-        "url": "https://data.ntpc.gov.tw/api/datasets/de4cfd62-e977-4c4f-822f-7d2aa65f6e4a/json",
+        "url": "https://data.ntpc.gov.tw/api/datasets/71E5B4E2-28F1-4B61-8B7F-19DF64A50A6D/json",
         "format": "json"
     },
     {
         "city": "台中市",
-        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/8e1bdc1c-a41a-4645-9bcb-0ec40c6ccf89?format=json",
+        "url": "https://datacenter.taichung.gov.tw/swagger/OpenData/5e0579f5-08d0-4b77-9f6b-eca65aeb0541",
         "format": "json"
-    },
-    {
-        "city": "台中市",
-        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/cfe37e8e-18c5-4cbf-bc38-47595038fa57?format=json",
-        "format": "json",  # 夜間急診 / 24H
-        "is24h": True
     },
     {
         "city": "台南市",
-        "url": "https://data.tainan.gov.tw/api/3/action/datastore_search?resource_id=8f329f1e-f2c9-46f2-87df-37a9f0f9e05a",
+        "url": "https://data.tainan.gov.tw/dataset/0c61b89d-46e4-43e1-8893-9478c30eeb3b/resource/61bb64f1-7d78-4c54-9275-3d76d7e45e3b/download/animal_hospital.json",
         "format": "json"
     },
     {
@@ -32,12 +27,16 @@ sources = [
         "url": "https://data.nantou.gov.tw/od/data/api/CC2A9C1A-BC84-43D4-A8A2-6C1F5073BD08?$format=csv",
         "format": "csv"
     },
+    # 後續可繼續加台北市、高雄市、基隆市等…
 ]
 
+# ✅ 縣市正規化（臺 → 台）
 def normalize_city(name: str) -> str:
-    """把 臺 → 台，保持一致"""
-    return name.replace("臺", "台")
+    if not name:
+        return ""
+    return name.replace("臺", "台").strip()
 
+# ✅ 抓取單一來源
 def fetch_source(src):
     print(f"📥 抓取 {src['city']} 資料中…")
     try:
@@ -60,6 +59,7 @@ def fetch_source(src):
                 records = raw["result"]["records"]
             else:
                 records = raw.get("records", raw)
+
             for item in records:
                 data.append({
                     "id": "",
@@ -72,6 +72,7 @@ def fetch_source(src):
                     "category": "醫院",
                     "is24h": src.get("is24h", False) or ("24" in str(item.get("服務時間", "")))
                 })
+
         elif src["format"] == "csv":
             f = io.StringIO(resp.text)
             reader = csv.DictReader(f)
@@ -87,49 +88,66 @@ def fetch_source(src):
                     "category": "醫院",
                     "is24h": src.get("is24h", False) or ("24" in str(item))
                 })
+
     except Exception as e:
         print(f"⚠️ {src['city']} 解析失敗: {e}")
 
     return data
 
+# ✅ 載入手動補充檔案
 def load_manual():
-    try:
-        with open("data/places_manual.json", "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return []
+    manual_file = "data/places_manual.json"
+    if os.path.exists(manual_file):
+        try:
+            with open(manual_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"⚠️ 手動資料讀取失敗: {e}")
+            return []
+    return []
 
+# ✅ 主程式
 def main():
     all_places = []
 
     # 抓取各來源
     for src in sources:
-        data = fetch_source(src)
-        all_places.extend(data)
-        print(f"✅ {src['city']} 抓到 {len(data)} 筆")
+        try:
+            data = fetch_source(src)
+            all_places.extend(data)
+            print(f"✅ {src['city']} 抓到 {len(data)} 筆")
+        except Exception as e:
+            print(f"❌ {src['city']} 抓取爆炸: {e}")
+
+    # 加上手動補充
+    manual = load_manual()
+    if manual:
+        print(f"➕ 加入手動補充 {len(manual)} 筆")
+        all_places.extend(manual)
+
+    # 加上 ID
+    for i, item in enumerate(all_places, start=1):
+        item["id"] = str(i)
 
     # 存成 places_auto.json
+    os.makedirs("data", exist_ok=True)
     with open("data/places_auto.json", "w", encoding="utf-8") as f:
         json.dump(all_places, f, ensure_ascii=False, indent=2)
 
-    # 合併手動資料
-    manual = load_manual()
-    final = all_places + manual
-
-    # 加上 ID
-    for idx, item in enumerate(final, start=1):
-        item["id"] = f"{normalize_city(item['city'])}_{idx:04d}"
-
-    # 輸出 places.json
+    # 存成 places.json（App 用）
     with open("places.json", "w", encoding="utf-8") as f:
-        json.dump(final, f, ensure_ascii=False, indent=2)
+        json.dump(all_places, f, ensure_ascii=False, indent=2)
 
-    # 更新版本號
-    version = {"last_updated": datetime.utcnow().isoformat()}
+    # 存版本號
     with open("version.json", "w", encoding="utf-8") as f:
-        json.dump(version, f, ensure_ascii=False, indent=2)
+        json.dump({"updated_at": datetime.utcnow().isoformat()}, f)
 
-    print(f"🎉 完成！共 {len(final)} 筆資料")
+    print(f"🎉 完成！共 {len(all_places)} 筆")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        print("❌ 腳本失敗:", e)
+        traceback.print_exc()
