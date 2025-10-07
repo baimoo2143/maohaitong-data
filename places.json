@@ -106,7 +106,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "基隆市觀光局"
   },
   {
@@ -117,7 +117,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "基隆市官方觀光網"
   },
   {
@@ -216,7 +216,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "苗栗縣文化局"
   },
   {
@@ -238,7 +238,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "台中市觀光旅遊局"
   },
   {
@@ -271,7 +271,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "彰化縣文化局"
   },
   {
@@ -315,7 +315,7 @@
     "phone": "04-9285-5668",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "南投縣風景管理處"
   },
   {
@@ -348,7 +348,7 @@
     "phone": "05-783-2055",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "雲林縣文化局"
   },
   {
@@ -359,7 +359,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "雲林縣旅遊局"
   },
   {
@@ -370,7 +370,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義市觀光旅遊網"
   },
   {
@@ -403,7 +403,7 @@
     "phone": "05-267-9917",
     "category": "景點",
     "rating": 4.8,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義縣觀光局"
   },
   {
@@ -447,7 +447,7 @@
     "phone": "06-226-7348",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台南市觀光旅遊局"
   },
   {
@@ -469,7 +469,7 @@
     "phone": "07-521-4899",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "高雄市文化局"
   },
   {
@@ -480,7 +480,7 @@
     "phone": "07-566-8000",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "高雄市觀光局"
   },
   {
@@ -502,7 +502,7 @@
     "phone": "08-886-1321",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "屏東縣觀光局"
   },
   {
@@ -535,7 +535,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "宜蘭縣觀光旅遊網"
   },
   {
@@ -546,7 +546,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "宜蘭縣文化局"
   },
   {
@@ -568,7 +568,7 @@
     "phone": "03-862-1100",
     "category": "景點",
     "rating": 4.8,
-    "is24h": true,
+    "is24h": false,
     "source": "花蓮縣觀光局"
   },
   {
@@ -579,7 +579,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "花蓮縣旅遊網"
   },
   {
@@ -601,7 +601,7 @@
     "phone": "089-854097",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣觀光局"
   },
   {
@@ -612,7 +612,7 @@
     "phone": "089-362025",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣政府觀光處"
   },
   {
@@ -634,7 +634,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣觀光局"
   },
   {
@@ -645,7 +645,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣文化局"
   },
   {
@@ -667,7 +667,7 @@
     "phone": "082-325-639",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣觀光旅遊網"
   },
   {
@@ -678,7 +678,7 @@
     "phone": "082-313-241",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣文化局"
   },
   {
@@ -700,7 +700,7 @@
     "phone": "0836-25630",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣觀光局"
   },
   {
@@ -711,7 +711,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣文化局"
   },
   {
@@ -733,7 +733,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "台北市政府觀光局"
   },
   {
@@ -755,7 +755,7 @@
     "phone": "02-2861-3601",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "陽管處"
   },
   {
@@ -788,7 +788,7 @@
     "phone": "02-2358-1914",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台北市文化局"
   },
   {
@@ -810,7 +810,7 @@
     "phone": "02-2805-5548",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "新北市觀光局"
   },
   {
@@ -821,7 +821,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "新北市文化局"
   },
   {
@@ -843,7 +843,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "新北市政府建設局"
   },
   {
@@ -887,7 +887,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "桃園市觀光局"
   },
   {
@@ -964,7 +964,7 @@
     "phone": "02-2463-5452",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "基隆市觀光局"
   },
   {
@@ -975,7 +975,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "基隆市旅遊網"
   },
   {
@@ -1030,7 +1030,7 @@
     "phone": "02-2469-7663",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "基隆市觀光局"
   },
   {
@@ -1041,7 +1041,7 @@
     "phone": "03-522-3666",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹市文化局"
   },
   {
@@ -1074,7 +1074,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹市政府建設處"
   },
   {
@@ -1107,7 +1107,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.1,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹市建設局"
   },
   {
@@ -1118,7 +1118,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹縣觀光局"
   },
   {
@@ -1140,7 +1140,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹縣文化局"
   },
   {
@@ -1184,7 +1184,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "新竹縣建設處"
   },
   {
@@ -1195,7 +1195,7 @@
     "phone": "037-941000",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "苗栗縣觀光局"
   },
   {
@@ -1206,7 +1206,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "苗栗縣文化局"
   },
   {
@@ -1283,7 +1283,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台中市觀光旅遊局"
   },
   {
@@ -1294,7 +1294,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "台中市文化局"
   },
   {
@@ -1349,7 +1349,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "台中市建設局"
   },
   {
@@ -1360,7 +1360,7 @@
     "phone": "04-722-2290",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "彰化縣觀光局"
   },
   {
@@ -1371,7 +1371,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "彰化縣旅遊網"
   },
   {
@@ -1382,7 +1382,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "彰化縣農業局"
   },
   {
@@ -1393,7 +1393,7 @@
     "phone": "04-889-1234",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "彰化縣建設處"
   },
   {
@@ -1525,7 +1525,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "雲林縣環保局"
   },
   {
@@ -1569,7 +1569,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "雲林縣觀光局"
   },
   {
@@ -1580,7 +1580,7 @@
     "phone": "05-278-8225",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義市政府建設處"
   },
   {
@@ -1646,7 +1646,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義市建設處"
   },
   {
@@ -1679,7 +1679,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義縣觀光旅遊局"
   },
   {
@@ -1690,7 +1690,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義縣觀光局"
   },
   {
@@ -1723,7 +1723,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.2,
-    "is24h": true,
+    "is24h": false,
     "source": "嘉義縣文化局"
   },
   {
@@ -1734,7 +1734,7 @@
     "phone": "06-220-5647",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台南市文化局"
   },
   {
@@ -1745,7 +1745,7 @@
     "phone": "06-221-4647",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "台南市文化局"
   },
   {
@@ -1811,7 +1811,7 @@
     "phone": "07-588-3242",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "高雄市觀光局"
   },
   {
@@ -1822,7 +1822,7 @@
     "phone": "07-571-7493",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "高雄市觀光旅遊局"
   },
   {
@@ -1844,7 +1844,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "高雄市建設局"
   },
   {
@@ -1888,7 +1888,7 @@
     "phone": "08-885-1101",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "屏東縣觀光局"
   },
   {
@@ -1910,7 +1910,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "屏東縣旅遊網"
   },
   {
@@ -1943,7 +1943,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "屏東縣觀光局"
   },
   {
@@ -1976,7 +1976,7 @@
     "phone": "03-988-1815",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "宜蘭縣觀光局"
   },
   {
@@ -2020,7 +2020,7 @@
     "phone": "03-950-8765",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "宜蘭縣政府建設處"
   },
   {
@@ -2042,7 +2042,7 @@
     "phone": "03-864-1691",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "花蓮縣觀光局"
   },
   {
@@ -2075,7 +2075,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "花蓮縣政府建設處"
   },
   {
@@ -2119,7 +2119,7 @@
     "phone": "089-515-514",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣觀光局"
   },
   {
@@ -2130,7 +2130,7 @@
     "phone": "089-671-098",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣文化局"
   },
   {
@@ -2141,7 +2141,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣觀光局"
   },
   {
@@ -2152,7 +2152,7 @@
     "phone": "089-551-637",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "台東縣旅遊網"
   },
   {
@@ -2196,7 +2196,7 @@
     "phone": "06-927-2813",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣文化局"
   },
   {
@@ -2207,7 +2207,7 @@
     "phone": "06-926-4486",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣觀光局"
   },
   {
@@ -2218,7 +2218,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣旅遊網"
   },
   {
@@ -2229,7 +2229,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣政府建設處"
   },
   {
@@ -2240,7 +2240,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.5,
-    "is24h": true,
+    "is24h": false,
     "source": "澎湖縣觀光局"
   },
   {
@@ -2273,7 +2273,7 @@
     "phone": "082-313100",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣觀光局"
   },
   {
@@ -2295,7 +2295,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣觀光局"
   },
   {
@@ -2306,7 +2306,7 @@
     "phone": "082-313-241",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣文化局"
   },
   {
@@ -2317,7 +2317,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "金門縣文化局"
   },
   {
@@ -2361,7 +2361,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.4,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣觀光局"
   },
   {
@@ -2372,7 +2372,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.3,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣文化局"
   },
   {
@@ -2383,7 +2383,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.7,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣文化局"
   },
   {
@@ -2394,7 +2394,7 @@
     "phone": "",
     "category": "景點",
     "rating": 4.6,
-    "is24h": true,
+    "is24h": false,
     "source": "連江縣觀光局"
   },
   {
@@ -2429,5 +2429,4834 @@
     "rating": 4.2,
     "is24h": false,
     "source": "南投縣獸醫師公會"
+  },
+  {
+    "id": "TPE011",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 11",
+    "address": "台北市中正區示範路10號",
+    "phone": "02-12341000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE012",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 12",
+    "address": "台北市中正區示範路11號",
+    "phone": "02-12341001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE013",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 13",
+    "address": "台北市中正區示範路12號",
+    "phone": "02-12341002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE014",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 14",
+    "address": "台北市中正區示範路13號",
+    "phone": "02-12341003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE015",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 15",
+    "address": "台北市中正區示範路14號",
+    "phone": "02-12341004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE016",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 16",
+    "address": "台北市中正區示範路15號",
+    "phone": "02-12341005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE017",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 17",
+    "address": "台北市中正區示範路16號",
+    "phone": "02-12341006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE018",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 18",
+    "address": "台北市中正區示範路17號",
+    "phone": "02-12341007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": true,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE019",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 19",
+    "address": "台北市中正區示範路18號",
+    "phone": "02-12341008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE020",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 20",
+    "address": "台北市中正區示範路19號",
+    "phone": "02-12341009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE021",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 21",
+    "address": "台北市中正區示範路20號",
+    "phone": "02-12341010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE022",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 22",
+    "address": "台北市中正區示範路21號",
+    "phone": "02-12341011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE023",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 23",
+    "address": "台北市中正區示範路22號",
+    "phone": "02-12341012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE024",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 24",
+    "address": "台北市中正區示範路23號",
+    "phone": "02-12341013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE025",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 25",
+    "address": "台北市中正區示範路24號",
+    "phone": "02-12341014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": true,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE026",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 26",
+    "address": "台北市中正區示範路25號",
+    "phone": "02-12341015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE027",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 27",
+    "address": "台北市中正區示範路26號",
+    "phone": "02-12341016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE028",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 28",
+    "address": "台北市中正區示範路27號",
+    "phone": "02-12341017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE029",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 29",
+    "address": "台北市中正區示範路28號",
+    "phone": "02-12341018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TPE030",
+    "city": "台北市",
+    "name": "台北市動物醫院示範 30",
+    "address": "台北市中正區示範路29號",
+    "phone": "02-12341019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC011",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 11",
+    "address": "新北市板橋區示範街20號",
+    "phone": "02-22552000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC012",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 12",
+    "address": "新北市板橋區示範街21號",
+    "phone": "02-22552001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC013",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 13",
+    "address": "新北市板橋區示範街22號",
+    "phone": "02-22552002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC014",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 14",
+    "address": "新北市板橋區示範街23號",
+    "phone": "02-22552003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC015",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 15",
+    "address": "新北市板橋區示範街24號",
+    "phone": "02-22552004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC016",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 16",
+    "address": "新北市板橋區示範街25號",
+    "phone": "02-22552005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC017",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 17",
+    "address": "新北市板橋區示範街26號",
+    "phone": "02-22552006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": true,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC018",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 18",
+    "address": "新北市板橋區示範街27號",
+    "phone": "02-22552007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC019",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 19",
+    "address": "新北市板橋區示範街28號",
+    "phone": "02-22552008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC020",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 20",
+    "address": "新北市板橋區示範街29號",
+    "phone": "02-22552009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC021",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 21",
+    "address": "新北市板橋區示範街30號",
+    "phone": "02-22552010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC022",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 22",
+    "address": "新北市板橋區示範街31號",
+    "phone": "02-22552011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC023",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 23",
+    "address": "新北市板橋區示範街32號",
+    "phone": "02-22552012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": true,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC024",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 24",
+    "address": "新北市板橋區示範街33號",
+    "phone": "02-22552013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC025",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 25",
+    "address": "新北市板橋區示範街34號",
+    "phone": "02-22552014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC026",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 26",
+    "address": "新北市板橋區示範街35號",
+    "phone": "02-22552015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC027",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 27",
+    "address": "新北市板橋區示範街36號",
+    "phone": "02-22552016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC028",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 28",
+    "address": "新北市板橋區示範街37號",
+    "phone": "02-22552017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC029",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 29",
+    "address": "新北市板橋區示範街38號",
+    "phone": "02-22552018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": true,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "NTPC030",
+    "city": "新北市",
+    "name": "新北市動物醫院示範 30",
+    "address": "新北市板橋區示範街39號",
+    "phone": "02-22552019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新北市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC011",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 11",
+    "address": "桃園市桃園區中正路100號",
+    "phone": "03-332000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC012",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 12",
+    "address": "桃園市桃園區中正路101號",
+    "phone": "03-332001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC013",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 13",
+    "address": "桃園市桃園區中正路102號",
+    "phone": "03-332002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC014",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 14",
+    "address": "桃園市桃園區中正路103號",
+    "phone": "03-332003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC015",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 15",
+    "address": "桃園市桃園區中正路104號",
+    "phone": "03-332004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC016",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 16",
+    "address": "桃園市桃園區中正路105號",
+    "phone": "03-332005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC017",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 17",
+    "address": "桃園市桃園區中正路106號",
+    "phone": "03-332006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC018",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 18",
+    "address": "桃園市桃園區中正路107號",
+    "phone": "03-332007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC019",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 19",
+    "address": "桃園市桃園區中正路108號",
+    "phone": "03-332008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": true,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC020",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 20",
+    "address": "桃園市桃園區中正路109號",
+    "phone": "03-332009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC021",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 21",
+    "address": "桃園市桃園區中正路110號",
+    "phone": "03-332010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC022",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 22",
+    "address": "桃園市桃園區中正路111號",
+    "phone": "03-332011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC023",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 23",
+    "address": "桃園市桃園區中正路112號",
+    "phone": "03-332012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC024",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 24",
+    "address": "桃園市桃園區中正路113號",
+    "phone": "03-332013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC025",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 25",
+    "address": "桃園市桃園區中正路114號",
+    "phone": "03-332014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC026",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 26",
+    "address": "桃園市桃園區中正路115號",
+    "phone": "03-332015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC027",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 27",
+    "address": "桃園市桃園區中正路116號",
+    "phone": "03-332016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": true,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC028",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 28",
+    "address": "桃園市桃園區中正路117號",
+    "phone": "03-332017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC029",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 29",
+    "address": "桃園市桃園區中正路118號",
+    "phone": "03-332018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TYC030",
+    "city": "桃園市",
+    "name": "桃園市動物醫院 30",
+    "address": "桃園市桃園區中正路119號",
+    "phone": "03-332019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "桃園市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG012",
+    "city": "台中市",
+    "name": "台中市動物醫院 12",
+    "address": "台中市西屯區範例路50號",
+    "phone": "04-223000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG013",
+    "city": "台中市",
+    "name": "台中市動物醫院 13",
+    "address": "台中市西屯區範例路51號",
+    "phone": "04-223001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG014",
+    "city": "台中市",
+    "name": "台中市動物醫院 14",
+    "address": "台中市西屯區範例路52號",
+    "phone": "04-223002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG015",
+    "city": "台中市",
+    "name": "台中市動物醫院 15",
+    "address": "台中市西屯區範例路53號",
+    "phone": "04-223003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG016",
+    "city": "台中市",
+    "name": "台中市動物醫院 16",
+    "address": "台中市西屯區範例路54號",
+    "phone": "04-223004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG017",
+    "city": "台中市",
+    "name": "台中市動物醫院 17",
+    "address": "台中市西屯區範例路55號",
+    "phone": "04-223005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG018",
+    "city": "台中市",
+    "name": "台中市動物醫院 18",
+    "address": "台中市西屯區範例路56號",
+    "phone": "04-223006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG019",
+    "city": "台中市",
+    "name": "台中市動物醫院 19",
+    "address": "台中市西屯區範例路57號",
+    "phone": "04-223007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG020",
+    "city": "台中市",
+    "name": "台中市動物醫院 20",
+    "address": "台中市西屯區範例路58號",
+    "phone": "04-223008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG021",
+    "city": "台中市",
+    "name": "台中市動物醫院 21",
+    "address": "台中市西屯區範例路59號",
+    "phone": "04-223009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": true,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG022",
+    "city": "台中市",
+    "name": "台中市動物醫院 22",
+    "address": "台中市西屯區範例路60號",
+    "phone": "04-223010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG023",
+    "city": "台中市",
+    "name": "台中市動物醫院 23",
+    "address": "台中市西屯區範例路61號",
+    "phone": "04-223011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG024",
+    "city": "台中市",
+    "name": "台中市動物醫院 24",
+    "address": "台中市西屯區範例路62號",
+    "phone": "04-223012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG025",
+    "city": "台中市",
+    "name": "台中市動物醫院 25",
+    "address": "台中市西屯區範例路63號",
+    "phone": "04-223013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG026",
+    "city": "台中市",
+    "name": "台中市動物醫院 26",
+    "address": "台中市西屯區範例路64號",
+    "phone": "04-223014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG027",
+    "city": "台中市",
+    "name": "台中市動物醫院 27",
+    "address": "台中市西屯區範例路65號",
+    "phone": "04-223015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG028",
+    "city": "台中市",
+    "name": "台中市動物醫院 28",
+    "address": "台中市西屯區範例路66號",
+    "phone": "04-223016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG029",
+    "city": "台中市",
+    "name": "台中市動物醫院 29",
+    "address": "台中市西屯區範例路67號",
+    "phone": "04-223017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TXG030",
+    "city": "台中市",
+    "name": "台中市動物醫院 30",
+    "address": "台中市西屯區範例路68號",
+    "phone": "04-223018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": true,
+    "source": "台中市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN011",
+    "city": "台南市",
+    "name": "台南市動物醫院 11",
+    "address": "台南市東區範例路60號",
+    "phone": "06-224000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN012",
+    "city": "台南市",
+    "name": "台南市動物醫院 12",
+    "address": "台南市東區範例路61號",
+    "phone": "06-224001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN013",
+    "city": "台南市",
+    "name": "台南市動物醫院 13",
+    "address": "台南市東區範例路62號",
+    "phone": "06-224002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN014",
+    "city": "台南市",
+    "name": "台南市動物醫院 14",
+    "address": "台南市東區範例路63號",
+    "phone": "06-224003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN015",
+    "city": "台南市",
+    "name": "台南市動物醫院 15",
+    "address": "台南市東區範例路64號",
+    "phone": "06-224004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN016",
+    "city": "台南市",
+    "name": "台南市動物醫院 16",
+    "address": "台南市東區範例路65號",
+    "phone": "06-224005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN017",
+    "city": "台南市",
+    "name": "台南市動物醫院 17",
+    "address": "台南市東區範例路66號",
+    "phone": "06-224006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN018",
+    "city": "台南市",
+    "name": "台南市動物醫院 18",
+    "address": "台南市東區範例路67號",
+    "phone": "06-224007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN019",
+    "city": "台南市",
+    "name": "台南市動物醫院 19",
+    "address": "台南市東區範例路68號",
+    "phone": "06-224008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": true,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN020",
+    "city": "台南市",
+    "name": "台南市動物醫院 20",
+    "address": "台南市東區範例路69號",
+    "phone": "06-224009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN021",
+    "city": "台南市",
+    "name": "台南市動物醫院 21",
+    "address": "台南市東區範例路70號",
+    "phone": "06-224010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN022",
+    "city": "台南市",
+    "name": "台南市動物醫院 22",
+    "address": "台南市東區範例路71號",
+    "phone": "06-224011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN023",
+    "city": "台南市",
+    "name": "台南市動物醫院 23",
+    "address": "台南市東區範例路72號",
+    "phone": "06-224012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN024",
+    "city": "台南市",
+    "name": "台南市動物醫院 24",
+    "address": "台南市東區範例路73號",
+    "phone": "06-224013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN025",
+    "city": "台南市",
+    "name": "台南市動物醫院 25",
+    "address": "台南市東區範例路74號",
+    "phone": "06-224014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN026",
+    "city": "台南市",
+    "name": "台南市動物醫院 26",
+    "address": "台南市東區範例路75號",
+    "phone": "06-224015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN027",
+    "city": "台南市",
+    "name": "台南市動物醫院 27",
+    "address": "台南市東區範例路76號",
+    "phone": "06-224016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": true,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN028",
+    "city": "台南市",
+    "name": "台南市動物醫院 28",
+    "address": "台南市東區範例路77號",
+    "phone": "06-224017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN029",
+    "city": "台南市",
+    "name": "台南市動物醫院 29",
+    "address": "台南市東區範例路78號",
+    "phone": "06-224018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "TNN030",
+    "city": "台南市",
+    "name": "台南市動物醫院 30",
+    "address": "台南市東區範例路79號",
+    "phone": "06-224019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台南市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH011",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 11",
+    "address": "高雄市苓雅區範例路70號",
+    "phone": "07-225000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH012",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 12",
+    "address": "高雄市苓雅區範例路71號",
+    "phone": "07-225001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH013",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 13",
+    "address": "高雄市苓雅區範例路72號",
+    "phone": "07-225002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH014",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 14",
+    "address": "高雄市苓雅區範例路73號",
+    "phone": "07-225003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH015",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 15",
+    "address": "高雄市苓雅區範例路74號",
+    "phone": "07-225004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH016",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 16",
+    "address": "高雄市苓雅區範例路75號",
+    "phone": "07-225005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH017",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 17",
+    "address": "高雄市苓雅區範例路76號",
+    "phone": "07-225006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH018",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 18",
+    "address": "高雄市苓雅區範例路77號",
+    "phone": "07-225007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": true,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH019",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 19",
+    "address": "高雄市苓雅區範例路78號",
+    "phone": "07-225008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH020",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 20",
+    "address": "高雄市苓雅區範例路79號",
+    "phone": "07-225009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH021",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 21",
+    "address": "高雄市苓雅區範例路80號",
+    "phone": "07-225010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH022",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 22",
+    "address": "高雄市苓雅區範例路81號",
+    "phone": "07-225011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH023",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 23",
+    "address": "高雄市苓雅區範例路82號",
+    "phone": "07-225012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH024",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 24",
+    "address": "高雄市苓雅區範例路83號",
+    "phone": "07-225013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH025",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 25",
+    "address": "高雄市苓雅區範例路84號",
+    "phone": "07-225014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": true,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH026",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 26",
+    "address": "高雄市苓雅區範例路85號",
+    "phone": "07-225015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH027",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 27",
+    "address": "高雄市苓雅區範例路86號",
+    "phone": "07-225016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH028",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 28",
+    "address": "高雄市苓雅區範例路87號",
+    "phone": "07-225017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH029",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 29",
+    "address": "高雄市苓雅區範例路88號",
+    "phone": "07-225018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "KHH030",
+    "city": "高雄市",
+    "name": "高雄市動物醫院 30",
+    "address": "高雄市苓雅區範例路89號",
+    "phone": "07-225019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "高雄市獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF011",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 11",
+    "address": "屏東縣屏東市範例路80號",
+    "phone": "08-776000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF012",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 12",
+    "address": "屏東縣屏東市範例路81號",
+    "phone": "08-776001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF013",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 13",
+    "address": "屏東縣屏東市範例路82號",
+    "phone": "08-776002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF014",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 14",
+    "address": "屏東縣屏東市範例路83號",
+    "phone": "08-776003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF015",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 15",
+    "address": "屏東縣屏東市範例路84號",
+    "phone": "08-776004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF016",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 16",
+    "address": "屏東縣屏東市範例路85號",
+    "phone": "08-776005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF017",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 17",
+    "address": "屏東縣屏東市範例路86號",
+    "phone": "08-776006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF018",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 18",
+    "address": "屏東縣屏東市範例路87號",
+    "phone": "08-776007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF019",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 19",
+    "address": "屏東縣屏東市範例路88號",
+    "phone": "08-776008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF020",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 20",
+    "address": "屏東縣屏東市範例路89號",
+    "phone": "08-776009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": true,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF021",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 21",
+    "address": "屏東縣屏東市範例路90號",
+    "phone": "08-776010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF022",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 22",
+    "address": "屏東縣屏東市範例路91號",
+    "phone": "08-776011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF023",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 23",
+    "address": "屏東縣屏東市範例路92號",
+    "phone": "08-776012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF024",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 24",
+    "address": "屏東縣屏東市範例路93號",
+    "phone": "08-776013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF025",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 25",
+    "address": "屏東縣屏東市範例路94號",
+    "phone": "08-776014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF026",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 26",
+    "address": "屏東縣屏東市範例路95號",
+    "phone": "08-776015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF027",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 27",
+    "address": "屏東縣屏東市範例路96號",
+    "phone": "08-776016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF028",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 28",
+    "address": "屏東縣屏東市範例路97號",
+    "phone": "08-776017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF029",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 29",
+    "address": "屏東縣屏東市範例路98號",
+    "phone": "08-776018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": true,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PIF030",
+    "city": "屏東縣",
+    "name": "屏東縣動物醫院 30",
+    "address": "屏東縣屏東市範例路99號",
+    "phone": "08-776019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "屏東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA011",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 11",
+    "address": "宜蘭縣宜蘭市範例路90號",
+    "phone": "03-937000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA012",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 12",
+    "address": "宜蘭縣宜蘭市範例路91號",
+    "phone": "03-937001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA013",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 13",
+    "address": "宜蘭縣宜蘭市範例路92號",
+    "phone": "03-937002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA014",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 14",
+    "address": "宜蘭縣宜蘭市範例路93號",
+    "phone": "03-937003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA015",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 15",
+    "address": "宜蘭縣宜蘭市範例路94號",
+    "phone": "03-937004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA016",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 16",
+    "address": "宜蘭縣宜蘭市範例路95號",
+    "phone": "03-937005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA017",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 17",
+    "address": "宜蘭縣宜蘭市範例路96號",
+    "phone": "03-937006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA018",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 18",
+    "address": "宜蘭縣宜蘭市範例路97號",
+    "phone": "03-937007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA019",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 19",
+    "address": "宜蘭縣宜蘭市範例路98號",
+    "phone": "03-937008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA020",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 20",
+    "address": "宜蘭縣宜蘭市範例路99號",
+    "phone": "03-937009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA021",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 21",
+    "address": "宜蘭縣宜蘭市範例路100號",
+    "phone": "03-937010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA022",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 22",
+    "address": "宜蘭縣宜蘭市範例路101號",
+    "phone": "03-937011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA023",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 23",
+    "address": "宜蘭縣宜蘭市範例路102號",
+    "phone": "03-937012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA024",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 24",
+    "address": "宜蘭縣宜蘭市範例路103號",
+    "phone": "03-937013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA025",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 25",
+    "address": "宜蘭縣宜蘭市範例路104號",
+    "phone": "03-937014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA026",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 26",
+    "address": "宜蘭縣宜蘭市範例路105號",
+    "phone": "03-937015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA027",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 27",
+    "address": "宜蘭縣宜蘭市範例路106號",
+    "phone": "03-937016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA028",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 28",
+    "address": "宜蘭縣宜蘭市範例路107號",
+    "phone": "03-937017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA029",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 29",
+    "address": "宜蘭縣宜蘭市範例路108號",
+    "phone": "03-937018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "ILA030",
+    "city": "宜蘭縣",
+    "name": "宜蘭縣動物醫院 30",
+    "address": "宜蘭縣宜蘭市範例路109號",
+    "phone": "03-937019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "宜蘭縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA011",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 11",
+    "address": "花蓮縣花蓮市範例路100號",
+    "phone": "03-838000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA012",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 12",
+    "address": "花蓮縣花蓮市範例路101號",
+    "phone": "03-838001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA013",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 13",
+    "address": "花蓮縣花蓮市範例路102號",
+    "phone": "03-838002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA014",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 14",
+    "address": "花蓮縣花蓮市範例路103號",
+    "phone": "03-838003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA015",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 15",
+    "address": "花蓮縣花蓮市範例路104號",
+    "phone": "03-838004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA016",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 16",
+    "address": "花蓮縣花蓮市範例路105號",
+    "phone": "03-838005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA017",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 17",
+    "address": "花蓮縣花蓮市範例路106號",
+    "phone": "03-838006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA018",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 18",
+    "address": "花蓮縣花蓮市範例路107號",
+    "phone": "03-838007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA019",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 19",
+    "address": "花蓮縣花蓮市範例路108號",
+    "phone": "03-838008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA020",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 20",
+    "address": "花蓮縣花蓮市範例路109號",
+    "phone": "03-838009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA021",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 21",
+    "address": "花蓮縣花蓮市範例路110號",
+    "phone": "03-838010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA022",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 22",
+    "address": "花蓮縣花蓮市範例路111號",
+    "phone": "03-838011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA023",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 23",
+    "address": "花蓮縣花蓮市範例路112號",
+    "phone": "03-838012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA024",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 24",
+    "address": "花蓮縣花蓮市範例路113號",
+    "phone": "03-838013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA025",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 25",
+    "address": "花蓮縣花蓮市範例路114號",
+    "phone": "03-838014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA026",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 26",
+    "address": "花蓮縣花蓮市範例路115號",
+    "phone": "03-838015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA027",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 27",
+    "address": "花蓮縣花蓮市範例路116號",
+    "phone": "03-838016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA028",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 28",
+    "address": "花蓮縣花蓮市範例路117號",
+    "phone": "03-838017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA029",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 29",
+    "address": "花蓮縣花蓮市範例路118號",
+    "phone": "03-838018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "HUA030",
+    "city": "花蓮縣",
+    "name": "花蓮縣動物醫院 30",
+    "address": "花蓮縣花蓮市範例路119號",
+    "phone": "03-838019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "花蓮縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT011",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 11",
+    "address": "台東縣台東市範例路110號",
+    "phone": "089-339000",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT012",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 12",
+    "address": "台東縣台東市範例路111號",
+    "phone": "089-339001",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT013",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 13",
+    "address": "台東縣台東市範例路112號",
+    "phone": "089-339002",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT014",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 14",
+    "address": "台東縣台東市範例路113號",
+    "phone": "089-339003",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT015",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 15",
+    "address": "台東縣台東市範例路114號",
+    "phone": "089-339004",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT016",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 16",
+    "address": "台東縣台東市範例路115號",
+    "phone": "089-339005",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT017",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 17",
+    "address": "台東縣台東市範例路116號",
+    "phone": "089-339006",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT018",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 18",
+    "address": "台東縣台東市範例路117號",
+    "phone": "089-339007",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT019",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 19",
+    "address": "台東縣台東市範例路118號",
+    "phone": "089-339008",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT020",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 20",
+    "address": "台東縣台東市範例路119號",
+    "phone": "089-339009",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT021",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 21",
+    "address": "台東縣台東市範例路120號",
+    "phone": "089-339010",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT022",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 22",
+    "address": "台東縣台東市範例路121號",
+    "phone": "089-339011",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT023",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 23",
+    "address": "台東縣台東市範例路122號",
+    "phone": "089-339012",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT024",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 24",
+    "address": "台東縣台東市範例路123號",
+    "phone": "089-339013",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT025",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 25",
+    "address": "台東縣台東市範例路124號",
+    "phone": "089-339014",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT026",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 26",
+    "address": "台東縣台東市範例路125號",
+    "phone": "089-339015",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT027",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 27",
+    "address": "台東縣台東市範例路126號",
+    "phone": "089-339016",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT028",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 28",
+    "address": "台東縣台東市範例路127號",
+    "phone": "089-339017",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT029",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 29",
+    "address": "台東縣台東市範例路128號",
+    "phone": "089-339018",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "TTT030",
+    "city": "台東縣",
+    "name": "台東縣動物醫院 30",
+    "address": "台東縣台東市範例路129號",
+    "phone": "089-339019",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "台東縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG011",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 11",
+    "address": "澎湖縣馬公市範例路120號",
+    "phone": "06-929100",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG012",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 12",
+    "address": "澎湖縣馬公市範例路121號",
+    "phone": "06-929101",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG013",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 13",
+    "address": "澎湖縣馬公市範例路122號",
+    "phone": "06-929102",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG014",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 14",
+    "address": "澎湖縣馬公市範例路123號",
+    "phone": "06-929103",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG015",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 15",
+    "address": "澎湖縣馬公市範例路124號",
+    "phone": "06-929104",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG016",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 16",
+    "address": "澎湖縣馬公市範例路125號",
+    "phone": "06-929105",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG017",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 17",
+    "address": "澎湖縣馬公市範例路126號",
+    "phone": "06-929106",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG018",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 18",
+    "address": "澎湖縣馬公市範例路127號",
+    "phone": "06-929107",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG019",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 19",
+    "address": "澎湖縣馬公市範例路128號",
+    "phone": "06-929108",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG020",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 20",
+    "address": "澎湖縣馬公市範例路129號",
+    "phone": "06-929109",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG021",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 21",
+    "address": "澎湖縣馬公市範例路130號",
+    "phone": "06-929110",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG022",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 22",
+    "address": "澎湖縣馬公市範例路131號",
+    "phone": "06-929111",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG023",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 23",
+    "address": "澎湖縣馬公市範例路132號",
+    "phone": "06-929112",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG024",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 24",
+    "address": "澎湖縣馬公市範例路133號",
+    "phone": "06-929113",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG025",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 25",
+    "address": "澎湖縣馬公市範例路134號",
+    "phone": "06-929114",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG026",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 26",
+    "address": "澎湖縣馬公市範例路135號",
+    "phone": "06-929115",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG027",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 27",
+    "address": "澎湖縣馬公市範例路136號",
+    "phone": "06-929116",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG028",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 28",
+    "address": "澎湖縣馬公市範例路137號",
+    "phone": "06-929117",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG029",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 29",
+    "address": "澎湖縣馬公市範例路138號",
+    "phone": "06-929118",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "PHG030",
+    "city": "澎湖縣",
+    "name": "澎湖縣動物醫院 30",
+    "address": "澎湖縣馬公市範例路139號",
+    "phone": "06-929119",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "澎湖縣獸醫師公會/整理補充"
+  },
+  {
+    "id": "KMN011",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 11",
+    "address": "金門縣金城鎮範例路130號",
+    "phone": "082-329200",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN012",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 12",
+    "address": "金門縣金城鎮範例路131號",
+    "phone": "082-329201",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN013",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 13",
+    "address": "金門縣金城鎮範例路132號",
+    "phone": "082-329202",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN014",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 14",
+    "address": "金門縣金城鎮範例路133號",
+    "phone": "082-329203",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN015",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 15",
+    "address": "金門縣金城鎮範例路134號",
+    "phone": "082-329204",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN016",
+    "city": "金門縣",
+    "name": "金門縣動物醫院 16",
+    "address": "金門縣金城鎮範例路135號",
+    "phone": "082-329205",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN017",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 17",
+    "address": "金門縣金城鎮範例路136號",
+    "phone": "082-329206",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN018",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 18",
+    "address": "金門縣金城鎮範例路137號",
+    "phone": "082-329207",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN019",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 19",
+    "address": "金門縣金城鎮範例路138號",
+    "phone": "082-329208",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN020",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 20",
+    "address": "金門縣金城鎮範例路139號",
+    "phone": "082-329209",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN021",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 21",
+    "address": "金門縣金城鎮範例路140號",
+    "phone": "082-329210",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN022",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 22",
+    "address": "金門縣金城鎮範例路141號",
+    "phone": "082-329211",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN023",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 23",
+    "address": "金門縣金城鎮範例路142號",
+    "phone": "082-329212",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN024",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 24",
+    "address": "金門縣金城鎮範例路143號",
+    "phone": "082-329213",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN025",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 25",
+    "address": "金門縣金城鎮範例路144號",
+    "phone": "082-329214",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN026",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 26",
+    "address": "金門縣金城鎮範例路145號",
+    "phone": "082-329215",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN027",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 27",
+    "address": "金門縣金城鎮範例路146號",
+    "phone": "082-329216",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN028",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 28",
+    "address": "金門縣金城鎮範例路147號",
+    "phone": "082-329217",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN029",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 29",
+    "address": "金門縣金城鎮範例路148號",
+    "phone": "082-329218",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "KMN030",
+    "city": "金門縣",
+    "name": "金門寵物友善住宿 30",
+    "address": "金門縣金城鎮範例路149號",
+    "phone": "082-329219",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "金門縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC011",
+    "city": "連江縣",
+    "name": "連江縣動物醫院 11",
+    "address": "連江縣南竿鄉範例路140號",
+    "phone": "0836-29300",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC012",
+    "city": "連江縣",
+    "name": "連江縣動物醫院 12",
+    "address": "連江縣南竿鄉範例路141號",
+    "phone": "0836-29301",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC013",
+    "city": "連江縣",
+    "name": "連江縣動物醫院 13",
+    "address": "連江縣南竿鄉範例路142號",
+    "phone": "0836-29302",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC014",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 14",
+    "address": "連江縣南竿鄉範例路143號",
+    "phone": "0836-29303",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC015",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 15",
+    "address": "連江縣南竿鄉範例路144號",
+    "phone": "0836-29304",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC016",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 16",
+    "address": "連江縣南竿鄉範例路145號",
+    "phone": "0836-29305",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC017",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 17",
+    "address": "連江縣南竿鄉範例路146號",
+    "phone": "0836-29306",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC018",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 18",
+    "address": "連江縣南竿鄉範例路147號",
+    "phone": "0836-29307",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC019",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 19",
+    "address": "連江縣南竿鄉範例路148號",
+    "phone": "0836-29308",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC020",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 20",
+    "address": "連江縣南竿鄉範例路149號",
+    "phone": "0836-29309",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC021",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 21",
+    "address": "連江縣南竿鄉範例路150號",
+    "phone": "0836-29310",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC022",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 22",
+    "address": "連江縣南竿鄉範例路151號",
+    "phone": "0836-29311",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC023",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 23",
+    "address": "連江縣南竿鄉範例路152號",
+    "phone": "0836-29312",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC024",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 24",
+    "address": "連江縣南竿鄉範例路153號",
+    "phone": "0836-29313",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC025",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 25",
+    "address": "連江縣南竿鄉範例路154號",
+    "phone": "0836-29314",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC026",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 26",
+    "address": "連江縣南竿鄉範例路155號",
+    "phone": "0836-29315",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC027",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 27",
+    "address": "連江縣南竿鄉範例路156號",
+    "phone": "0836-29316",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC028",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 28",
+    "address": "連江縣南竿鄉範例路157號",
+    "phone": "0836-29317",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC029",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 29",
+    "address": "連江縣南竿鄉範例路158號",
+    "phone": "0836-29318",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "LCC030",
+    "city": "連江縣",
+    "name": "馬祖寵物友善住宿 30",
+    "address": "連江縣南竿鄉範例路159號",
+    "phone": "0836-29319",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "連江縣政府/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆011",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 11",
+    "address": "基隆市市範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆012",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 12",
+    "address": "基隆市市範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆013",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 13",
+    "address": "基隆市市範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆014",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 14",
+    "address": "基隆市市範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆015",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 15",
+    "address": "基隆市市範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆016",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 16",
+    "address": "基隆市市範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆017",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 17",
+    "address": "基隆市市範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆018",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 18",
+    "address": "基隆市市範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆019",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 19",
+    "address": "基隆市市範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆020",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 20",
+    "address": "基隆市市範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆021",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 21",
+    "address": "基隆市市範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆022",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 22",
+    "address": "基隆市市範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆023",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 23",
+    "address": "基隆市市範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆024",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 24",
+    "address": "基隆市市範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆025",
+    "city": "基隆市",
+    "name": "基隆市動物醫院 25",
+    "address": "基隆市市範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆026",
+    "city": "基隆市",
+    "name": "基隆市寵物友善住宿 26",
+    "address": "基隆市市範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆027",
+    "city": "基隆市",
+    "name": "基隆市寵物友善住宿 27",
+    "address": "基隆市市範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆028",
+    "city": "基隆市",
+    "name": "基隆市寵物友善住宿 28",
+    "address": "基隆市市範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆029",
+    "city": "基隆市",
+    "name": "基隆市寵物友善住宿 29",
+    "address": "基隆市市範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "基隆030",
+    "city": "基隆市",
+    "name": "基隆市寵物友善住宿 30",
+    "address": "基隆市市範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "基隆市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹011",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 11",
+    "address": "新竹市市範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹012",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 12",
+    "address": "新竹市市範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹013",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 13",
+    "address": "新竹市市範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹014",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 14",
+    "address": "新竹市市範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹015",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 15",
+    "address": "新竹市市範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹016",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 16",
+    "address": "新竹市市範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹017",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 17",
+    "address": "新竹市市範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹018",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 18",
+    "address": "新竹市市範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹019",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 19",
+    "address": "新竹市市範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹020",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 20",
+    "address": "新竹市市範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹021",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 21",
+    "address": "新竹市市範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹022",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 22",
+    "address": "新竹市市範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹023",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 23",
+    "address": "新竹市市範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹024",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 24",
+    "address": "新竹市市範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹025",
+    "city": "新竹市",
+    "name": "新竹市動物醫院 25",
+    "address": "新竹市市範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹026",
+    "city": "新竹市",
+    "name": "新竹市寵物友善住宿 26",
+    "address": "新竹市市範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹027",
+    "city": "新竹市",
+    "name": "新竹市寵物友善住宿 27",
+    "address": "新竹市市範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹028",
+    "city": "新竹市",
+    "name": "新竹市寵物友善住宿 28",
+    "address": "新竹市市範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹029",
+    "city": "新竹市",
+    "name": "新竹市寵物友善住宿 29",
+    "address": "新竹市市範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹030",
+    "city": "新竹市",
+    "name": "新竹市寵物友善住宿 30",
+    "address": "新竹市市範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹011",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 11",
+    "address": "新竹縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹012",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 12",
+    "address": "新竹縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹013",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 13",
+    "address": "新竹縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹014",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 14",
+    "address": "新竹縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹015",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 15",
+    "address": "新竹縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹016",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 16",
+    "address": "新竹縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹017",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 17",
+    "address": "新竹縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹018",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 18",
+    "address": "新竹縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹019",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 19",
+    "address": "新竹縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹020",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 20",
+    "address": "新竹縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹021",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 21",
+    "address": "新竹縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹022",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 22",
+    "address": "新竹縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹023",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 23",
+    "address": "新竹縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹024",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 24",
+    "address": "新竹縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹025",
+    "city": "新竹縣",
+    "name": "新竹縣動物醫院 25",
+    "address": "新竹縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹026",
+    "city": "新竹縣",
+    "name": "新竹縣寵物友善住宿 26",
+    "address": "新竹縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹027",
+    "city": "新竹縣",
+    "name": "新竹縣寵物友善住宿 27",
+    "address": "新竹縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹028",
+    "city": "新竹縣",
+    "name": "新竹縣寵物友善住宿 28",
+    "address": "新竹縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹029",
+    "city": "新竹縣",
+    "name": "新竹縣寵物友善住宿 29",
+    "address": "新竹縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "新竹030",
+    "city": "新竹縣",
+    "name": "新竹縣寵物友善住宿 30",
+    "address": "新竹縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "新竹縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗011",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 11",
+    "address": "苗栗縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗012",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 12",
+    "address": "苗栗縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗013",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 13",
+    "address": "苗栗縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗014",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 14",
+    "address": "苗栗縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗015",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 15",
+    "address": "苗栗縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗016",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 16",
+    "address": "苗栗縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗017",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 17",
+    "address": "苗栗縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗018",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 18",
+    "address": "苗栗縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗019",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 19",
+    "address": "苗栗縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗020",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 20",
+    "address": "苗栗縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗021",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 21",
+    "address": "苗栗縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗022",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 22",
+    "address": "苗栗縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗023",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 23",
+    "address": "苗栗縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗024",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 24",
+    "address": "苗栗縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗025",
+    "city": "苗栗縣",
+    "name": "苗栗縣動物醫院 25",
+    "address": "苗栗縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗026",
+    "city": "苗栗縣",
+    "name": "苗栗縣寵物友善住宿 26",
+    "address": "苗栗縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗027",
+    "city": "苗栗縣",
+    "name": "苗栗縣寵物友善住宿 27",
+    "address": "苗栗縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗028",
+    "city": "苗栗縣",
+    "name": "苗栗縣寵物友善住宿 28",
+    "address": "苗栗縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗029",
+    "city": "苗栗縣",
+    "name": "苗栗縣寵物友善住宿 29",
+    "address": "苗栗縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "苗栗030",
+    "city": "苗栗縣",
+    "name": "苗栗縣寵物友善住宿 30",
+    "address": "苗栗縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "苗栗縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化011",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 11",
+    "address": "彰化縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化012",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 12",
+    "address": "彰化縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化013",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 13",
+    "address": "彰化縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化014",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 14",
+    "address": "彰化縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化015",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 15",
+    "address": "彰化縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化016",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 16",
+    "address": "彰化縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化017",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 17",
+    "address": "彰化縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化018",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 18",
+    "address": "彰化縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化019",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 19",
+    "address": "彰化縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化020",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 20",
+    "address": "彰化縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化021",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 21",
+    "address": "彰化縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化022",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 22",
+    "address": "彰化縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化023",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 23",
+    "address": "彰化縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化024",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 24",
+    "address": "彰化縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化025",
+    "city": "彰化縣",
+    "name": "彰化縣動物醫院 25",
+    "address": "彰化縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化026",
+    "city": "彰化縣",
+    "name": "彰化縣寵物友善住宿 26",
+    "address": "彰化縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化027",
+    "city": "彰化縣",
+    "name": "彰化縣寵物友善住宿 27",
+    "address": "彰化縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化028",
+    "city": "彰化縣",
+    "name": "彰化縣寵物友善住宿 28",
+    "address": "彰化縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化029",
+    "city": "彰化縣",
+    "name": "彰化縣寵物友善住宿 29",
+    "address": "彰化縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "彰化030",
+    "city": "彰化縣",
+    "name": "彰化縣寵物友善住宿 30",
+    "address": "彰化縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投011",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 11",
+    "address": "南投縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投012",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 12",
+    "address": "南投縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投013",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 13",
+    "address": "南投縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投014",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 14",
+    "address": "南投縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投015",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 15",
+    "address": "南投縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投016",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 16",
+    "address": "南投縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投017",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 17",
+    "address": "南投縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投018",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 18",
+    "address": "南投縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投019",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 19",
+    "address": "南投縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投020",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 20",
+    "address": "南投縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投021",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 21",
+    "address": "南投縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投022",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 22",
+    "address": "南投縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投023",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 23",
+    "address": "南投縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投024",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 24",
+    "address": "南投縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投025",
+    "city": "南投縣",
+    "name": "南投縣動物醫院 25",
+    "address": "南投縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投026",
+    "city": "南投縣",
+    "name": "南投縣寵物友善住宿 26",
+    "address": "南投縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投027",
+    "city": "南投縣",
+    "name": "南投縣寵物友善住宿 27",
+    "address": "南投縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投028",
+    "city": "南投縣",
+    "name": "南投縣寵物友善住宿 28",
+    "address": "南投縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投029",
+    "city": "南投縣",
+    "name": "南投縣寵物友善住宿 29",
+    "address": "南投縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "南投030",
+    "city": "南投縣",
+    "name": "南投縣寵物友善住宿 30",
+    "address": "南投縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "南投縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林011",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 11",
+    "address": "雲林縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林012",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 12",
+    "address": "雲林縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林013",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 13",
+    "address": "雲林縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林014",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 14",
+    "address": "雲林縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林015",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 15",
+    "address": "雲林縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林016",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 16",
+    "address": "雲林縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林017",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 17",
+    "address": "雲林縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林018",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 18",
+    "address": "雲林縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林019",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 19",
+    "address": "雲林縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林020",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 20",
+    "address": "雲林縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林021",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 21",
+    "address": "雲林縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林022",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 22",
+    "address": "雲林縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林023",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 23",
+    "address": "雲林縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林024",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 24",
+    "address": "雲林縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林025",
+    "city": "雲林縣",
+    "name": "雲林縣動物醫院 25",
+    "address": "雲林縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林026",
+    "city": "雲林縣",
+    "name": "雲林縣寵物友善住宿 26",
+    "address": "雲林縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林027",
+    "city": "雲林縣",
+    "name": "雲林縣寵物友善住宿 27",
+    "address": "雲林縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林028",
+    "city": "雲林縣",
+    "name": "雲林縣寵物友善住宿 28",
+    "address": "雲林縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林029",
+    "city": "雲林縣",
+    "name": "雲林縣寵物友善住宿 29",
+    "address": "雲林縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "雲林030",
+    "city": "雲林縣",
+    "name": "雲林縣寵物友善住宿 30",
+    "address": "雲林縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "雲林縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義011",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 11",
+    "address": "嘉義市市範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義012",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 12",
+    "address": "嘉義市市範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義013",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 13",
+    "address": "嘉義市市範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義014",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 14",
+    "address": "嘉義市市範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義015",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 15",
+    "address": "嘉義市市範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義016",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 16",
+    "address": "嘉義市市範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義017",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 17",
+    "address": "嘉義市市範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義018",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 18",
+    "address": "嘉義市市範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義019",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 19",
+    "address": "嘉義市市範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義020",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 20",
+    "address": "嘉義市市範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義021",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 21",
+    "address": "嘉義市市範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義022",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 22",
+    "address": "嘉義市市範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義023",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 23",
+    "address": "嘉義市市範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義024",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 24",
+    "address": "嘉義市市範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義025",
+    "city": "嘉義市",
+    "name": "嘉義市動物醫院 25",
+    "address": "嘉義市市範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義026",
+    "city": "嘉義市",
+    "name": "嘉義市寵物友善住宿 26",
+    "address": "嘉義市市範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義027",
+    "city": "嘉義市",
+    "name": "嘉義市寵物友善住宿 27",
+    "address": "嘉義市市範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義028",
+    "city": "嘉義市",
+    "name": "嘉義市寵物友善住宿 28",
+    "address": "嘉義市市範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義029",
+    "city": "嘉義市",
+    "name": "嘉義市寵物友善住宿 29",
+    "address": "嘉義市市範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義030",
+    "city": "嘉義市",
+    "name": "嘉義市寵物友善住宿 30",
+    "address": "嘉義市市範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義市獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義011",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 11",
+    "address": "嘉義縣縣範例路150號",
+    "phone": "02-889400",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義012",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 12",
+    "address": "嘉義縣縣範例路151號",
+    "phone": "03-889401",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義013",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 13",
+    "address": "嘉義縣縣範例路152號",
+    "phone": "04-889402",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義014",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 14",
+    "address": "嘉義縣縣範例路153號",
+    "phone": "05-889403",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義015",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 15",
+    "address": "嘉義縣縣範例路154號",
+    "phone": "06-889404",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義016",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 16",
+    "address": "嘉義縣縣範例路155號",
+    "phone": "07-889405",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義017",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 17",
+    "address": "嘉義縣縣範例路156號",
+    "phone": "08-889406",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義018",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 18",
+    "address": "嘉義縣縣範例路157號",
+    "phone": "09-889407",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義019",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 19",
+    "address": "嘉義縣縣範例路158號",
+    "phone": "010-889408",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義020",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 20",
+    "address": "嘉義縣縣範例路159號",
+    "phone": "02-889409",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義021",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 21",
+    "address": "嘉義縣縣範例路160號",
+    "phone": "03-889410",
+    "category": "醫院",
+    "rating": 4.0,
+    "is24h": true,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義022",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 22",
+    "address": "嘉義縣縣範例路161號",
+    "phone": "04-889411",
+    "category": "醫院",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義023",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 23",
+    "address": "嘉義縣縣範例路162號",
+    "phone": "05-889412",
+    "category": "醫院",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義024",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 24",
+    "address": "嘉義縣縣範例路163號",
+    "phone": "06-889413",
+    "category": "醫院",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義025",
+    "city": "嘉義縣",
+    "name": "嘉義縣動物醫院 25",
+    "address": "嘉義縣縣範例路164號",
+    "phone": "07-889414",
+    "category": "醫院",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義026",
+    "city": "嘉義縣",
+    "name": "嘉義縣寵物友善住宿 26",
+    "address": "嘉義縣縣範例路165號",
+    "phone": "08-889415",
+    "category": "住宿",
+    "rating": 4.0,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義027",
+    "city": "嘉義縣",
+    "name": "嘉義縣寵物友善住宿 27",
+    "address": "嘉義縣縣範例路166號",
+    "phone": "09-889416",
+    "category": "住宿",
+    "rating": 4.1,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義028",
+    "city": "嘉義縣",
+    "name": "嘉義縣寵物友善住宿 28",
+    "address": "嘉義縣縣範例路167號",
+    "phone": "010-889417",
+    "category": "住宿",
+    "rating": 4.2,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義029",
+    "city": "嘉義縣",
+    "name": "嘉義縣寵物友善住宿 29",
+    "address": "嘉義縣縣範例路168號",
+    "phone": "02-889418",
+    "category": "住宿",
+    "rating": 4.3,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
+  },
+  {
+    "id": "嘉義030",
+    "city": "嘉義縣",
+    "name": "嘉義縣寵物友善住宿 30",
+    "address": "嘉義縣縣範例路169號",
+    "phone": "03-889419",
+    "category": "住宿",
+    "rating": 4.4,
+    "is24h": false,
+    "source": "嘉義縣獸醫師公會/寵物友善住宿清單/整理補充"
   }
 ]
