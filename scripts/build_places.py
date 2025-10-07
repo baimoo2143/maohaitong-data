@@ -147,7 +147,10 @@ def main():
 
     print("📊 各縣市筆數：")
     for city, count in city_counts.items():
-        print(f"   {city}: {count} 筆")
+        if count == 0:
+            print(f"⚠️  {city}: {count} 筆（可能 API 無資料）")
+        else:
+            print(f"   {city}: {count} 筆")
 
     print(f"🎉 完成！共 {len(all_places)} 筆")
 
