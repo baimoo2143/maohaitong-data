@@ -1,7 +1,7 @@
 import os, io, csv, json, requests, traceback
 from datetime import datetime
 
-# API 來源清單
+# API 來源清單（目前 8 縣市，後續可補齊）
 sources = [
     {
         "city": "新北市",
@@ -61,9 +61,9 @@ def fetch_source(src):
         resp = requests.get(src["url"], timeout=20)
         resp.raise_for_status()
 
+        # 嘗試多種 JSON 結構
         if src["format"] == "json":
             raw = resp.json()
-            # 嘗試多種 JSON 結構
             if isinstance(raw, list):
                 records = raw
             elif "result" in raw and "records" in raw["result"]:
@@ -74,7 +74,6 @@ def fetch_source(src):
                 records = raw["records"]
             else:
                 records = []
-
         elif src["format"] == "csv":
             f = io.StringIO(resp.text)
             reader = csv.DictReader(f)
@@ -116,9 +115,12 @@ def load_manual():
 
 def main():
     all_places = []
+    city_counts = {}
+
     for src in sources:
         data = fetch_source(src)
         all_places.extend(data)
+        city_counts[src["city"]] = len(data)
 
     manual = load_manual()
     if manual:
@@ -137,8 +139,15 @@ def main():
         json.dump(all_places, f, ensure_ascii=False, indent=2)
 
     with open("version.json", "w", encoding="utf-8") as f:
-        json.dump({"updated_at": datetime.utcnow().isoformat(),
-                   "count": len(all_places)}, f)
+        json.dump({
+            "updated_at": datetime.utcnow().isoformat(),
+            "count": len(all_places),
+            "city_counts": city_counts
+        }, f, ensure_ascii=False, indent=2)
+
+    print("📊 各縣市筆數：")
+    for city, count in city_counts.items():
+        print(f"   {city}: {count} 筆")
 
     print(f"🎉 完成！共 {len(all_places)} 筆")
 
