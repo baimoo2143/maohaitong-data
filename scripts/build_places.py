@@ -1,7 +1,7 @@
 import os, io, csv, json, requests, traceback
 from datetime import datetime
 
-# 📌 全台 22 縣市 API 清單（我已查到能用的 dataset，少數若有變動要再更新）
+# 📌 全台 22 縣市 API 清單（已去掉重複、保留可用網址）
 sources = [
     # 六都
     { "city": "台北市", "url": "https://data.taipei/api/v1/dataset/6c1ffab3-5957-4f2a-9c47-6c5c4c862a9a?scope=resourceAquire", "format": "json" },
@@ -11,7 +11,7 @@ sources = [
     { "city": "台南市", "url": "https://data.tainan.gov.tw/dataset/0c61b89d-46e4-43e1-8893-9478c30eeb3b/resource/61bb64f1-7d78-4c54-9275-3d76d7e45e3b/download/animal_hospital.json", "format": "json" },
     { "city": "高雄市", "url": "https://api.kcg.gov.tw/api/service/Get/6a2e5103-d634-4a5c-8a9f-d2c3b4bc6fdf", "format": "json" },
 
-    # 直轄市 / 市
+    # 直轄市
     { "city": "基隆市", "url": "https://data.klcg.gov.tw/api/3/action/datastore_search?resource_id=4f2c3dcf-3ed4-4cf8-91ff-1f3aa7e8f6d3", "format": "json" },
     { "city": "新竹市", "url": "https://opendata.hccg.gov.tw/api/3/action/datastore_search?resource_id=4dce8394-5809-49d7-a9c3-523fe5e82c48", "format": "json" },
     { "city": "嘉義市", "url": "https://data.chiayi.gov.tw/dataset/60739c0f-66db-49d7-b726-7cebf7850f22/resource/12a622a7-55a5-474a-b11b-8a64042fbaa2/download/animalhospital.json", "format": "json" },
