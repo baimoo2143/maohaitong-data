@@ -116,11 +116,14 @@ def load_manual():
 def main():
     all_places = []
     city_counts = {}
+    empty_cities = []
 
     for src in sources:
         data = fetch_source(src)
         all_places.extend(data)
         city_counts[src["city"]] = len(data)
+        if len(data) == 0:
+            empty_cities.append(src["city"])
 
     manual = load_manual()
     if manual:
@@ -142,7 +145,8 @@ def main():
         json.dump({
             "updated_at": datetime.utcnow().isoformat(),
             "count": len(all_places),
-            "city_counts": city_counts
+            "city_counts": city_counts,
+            "empty_cities": empty_cities
         }, f, ensure_ascii=False, indent=2)
 
     print("📊 各縣市筆數：")
@@ -152,7 +156,13 @@ def main():
         else:
             print(f"   {city}: {count} 筆")
 
-    print(f"🎉 完成！共 {len(all_places)} 筆")
+    if empty_cities:
+        print(f"\n⚠️ 無資料的縣市：{', '.join(empty_cities)}")
+        print(f"⚠️ 共 {len(empty_cities)} 個縣市無資料")
+    else:
+        print("\n✅ 所有縣市都有資料")
+
+    print(f"\n🎉 完成！共 {len(all_places)} 筆")
 
 if __name__ == "__main__":
     try:
