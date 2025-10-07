@@ -5,11 +5,16 @@ import json
 import os
 from datetime import datetime
 
-# ✅ API 來源清單（目前先放幾個示範，後續可以再加）
+# ✅ API 來源清單（8 個縣市，後續可再補齊）
 sources = [
     {
         "city": "新北市",
         "url": "https://data.ntpc.gov.tw/api/datasets/71E5B4E2-28F1-4B61-8B7F-19DF64A50A6D/json",
+        "format": "json"
+    },
+    {
+        "city": "台北市",
+        "url": "https://data.taipei/api/v1/dataset/6c1ffab3-5957-4f2a-9c47-6c5c4c862a9a?scope=resourceAquire",
         "format": "json"
     },
     {
@@ -18,8 +23,19 @@ sources = [
         "format": "json"
     },
     {
+        "city": "台中市",
+        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/cfe37e8e-18c5-4cbf-bc38-47595038fa57?format=json",
+        "format": "json",
+        "is24h": True
+    },
+    {
         "city": "台南市",
         "url": "https://data.tainan.gov.tw/dataset/0c61b89d-46e4-43e1-8893-9478c30eeb3b/resource/61bb64f1-7d78-4c54-9275-3d76d7e45e3b/download/animal_hospital.json",
+        "format": "json"
+    },
+    {
+        "city": "高雄市",
+        "url": "https://api.kcg.gov.tw/api/service/Get/6a2e5103-d634-4a5c-8a9f-d2c3b4bc6fdf",
         "format": "json"
     },
     {
@@ -27,7 +43,16 @@ sources = [
         "url": "https://data.nantou.gov.tw/od/data/api/CC2A9C1A-BC84-43D4-A8A2-6C1F5073BD08?$format=csv",
         "format": "csv"
     },
-    # 後續可繼續加台北市、高雄市、基隆市等…
+    {
+        "city": "花蓮縣",
+        "url": "https://od.hl.gov.tw/dataset/50c72fb5-8ee7-4c69-a38a-9cb6785f2d60/resource/7f8b7d46-6d4c-45b5-8f68-3a88d3bc8c1c/download/animal_hospital.json",
+        "format": "json"
+    },
+    {
+        "city": "屏東縣",
+        "url": "https://data.pthg.gov.tw/api/3/action/datastore_search?resource_id=45f6f746-9cc6-4d13-b5d0-d0dc8b2c0d7a",
+        "format": "json"
+    }
 ]
 
 # ✅ 縣市正規化（臺 → 台）
@@ -52,14 +77,12 @@ def fetch_source(src):
     try:
         if src["format"] == "json":
             raw = resp.json()
-            # 嘗試不同 JSON 結構
             if isinstance(raw, list):
                 records = raw
             elif "result" in raw and "records" in raw["result"]:
                 records = raw["result"]["records"]
             else:
                 records = raw.get("records", raw)
-
             for item in records:
                 data.append({
                     "id": "",
@@ -72,7 +95,6 @@ def fetch_source(src):
                     "category": "醫院",
                     "is24h": src.get("is24h", False) or ("24" in str(item.get("服務時間", "")))
                 })
-
         elif src["format"] == "csv":
             f = io.StringIO(resp.text)
             reader = csv.DictReader(f)
@@ -88,7 +110,6 @@ def fetch_source(src):
                     "category": "醫院",
                     "is24h": src.get("is24h", False) or ("24" in str(item))
                 })
-
     except Exception as e:
         print(f"⚠️ {src['city']} 解析失敗: {e}")
 
@@ -110,7 +131,6 @@ def load_manual():
 def main():
     all_places = []
 
-    # 抓取各來源
     for src in sources:
         try:
             data = fetch_source(src)
@@ -119,7 +139,6 @@ def main():
         except Exception as e:
             print(f"❌ {src['city']} 抓取爆炸: {e}")
 
-    # 加上手動補充
     manual = load_manual()
     if manual:
         print(f"➕ 加入手動補充 {len(manual)} 筆")
@@ -129,16 +148,13 @@ def main():
     for i, item in enumerate(all_places, start=1):
         item["id"] = str(i)
 
-    # 存成 places_auto.json
     os.makedirs("data", exist_ok=True)
     with open("data/places_auto.json", "w", encoding="utf-8") as f:
         json.dump(all_places, f, ensure_ascii=False, indent=2)
 
-    # 存成 places.json（App 用）
     with open("places.json", "w", encoding="utf-8") as f:
         json.dump(all_places, f, ensure_ascii=False, indent=2)
 
-    # 存版本號
     with open("version.json", "w", encoding="utf-8") as f:
         json.dump({"updated_at": datetime.utcnow().isoformat()}, f)
 
