@@ -1,4 +1,4 @@
-import os, io, csv, json, requests
+import os, io, csv, json, requests, traceback
 from datetime import datetime
 
 # API 來源清單
@@ -52,7 +52,7 @@ sources = [
 ]
 
 def normalize_city(name: str) -> str:
-    return name.replace("臺", "台") if name else name
+    return name.replace("臺", "台").strip() if name else ""
 
 def fetch_source(src):
     data = []
@@ -63,10 +63,13 @@ def fetch_source(src):
 
         if src["format"] == "json":
             raw = resp.json()
+            # 嘗試多種 JSON 結構
             if isinstance(raw, list):
                 records = raw
             elif "result" in raw and "records" in raw["result"]:
                 records = raw["result"]["records"]
+            elif "result" in raw and "results" in raw["result"]:
+                records = raw["result"]["results"]
             elif "records" in raw:
                 records = raw["records"]
             else:
@@ -84,10 +87,10 @@ def fetch_source(src):
         for item in records:
             data.append({
                 "id": "",
-                "name": item.get("機構名稱") or item.get("名稱") or item.get("醫院名稱") or item.get("name"),
-                "city": normalize_city(src["city"]),
-                "address": item.get("地址") or item.get("addr") or item.get("address"),
-                "phone": item.get("電話") or item.get("tel") or item.get("phone"),
+                "name": item.get("機構名稱") or item.get("名稱") or item.get("醫院名稱") or item.get("name", ""),
+                "city": normalize_city(item.get("縣市") or src["city"]),
+                "address": item.get("地址") or item.get("所在地") or item.get("addr") or item.get("address", ""),
+                "phone": item.get("電話") or item.get("聯絡電話") or item.get("tel") or item.get("phone", ""),
                 "lat": item.get("緯度") or item.get("lat"),
                 "lng": item.get("經度") or item.get("lng"),
                 "category": "醫院",
@@ -97,7 +100,8 @@ def fetch_source(src):
         print(f"✅ {src['city']} 成功轉換 {len(data)} 筆")
 
     except Exception as e:
-        print(f"⚠️ {src['city']} 解析失敗: {e}")
+        print(f"⚠️ {src['city']} 抓取失敗: {e}")
+        traceback.print_exc()
 
     return data
 
@@ -121,6 +125,7 @@ def main():
         print(f"➕ 加入手動補充 {len(manual)} 筆")
         all_places.extend(manual)
 
+    # 加上唯一 ID
     for i, item in enumerate(all_places, start=1):
         item["id"] = str(i)
 
@@ -138,4 +143,8 @@ def main():
     print(f"🎉 完成！共 {len(all_places)} 筆")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print("❌ 腳本失敗:", e)
+        traceback.print_exc()
