@@ -7,7 +7,7 @@ on:
       - "scripts/**"
   schedule:
     - cron: "0 2 * * *"   # 每天 02:00 UTC 自動跑（台灣早上 10 點）
-  workflow_dispatch:       # 可以手動觸發
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ jobs:
           pip install requests
 
       - name: Run build script
-        run: python scripts/build_places.py
+        run: python ./scripts/build_places.py   # ✅ 確保有 ./scripts/
 
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
