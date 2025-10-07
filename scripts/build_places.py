@@ -1,54 +1,30 @@
 import os, io, csv, json, requests, traceback
 from datetime import datetime
 
-# 📌 API 來源清單（目前已含 9 個縣市，之後可擴充）
+# 📌 全台 22 縣市 API 清單（部分縣市還需補上正確 dataset id）
 sources = [
-    {
-        "city": "新北市",
-        "url": "https://data.ntpc.gov.tw/api/datasets/71E5B4E2-28F1-4B61-8B7F-19DF64A50A6D/json",
-        "format": "json"
-    },
-    {
-        "city": "台北市",
-        "url": "https://data.taipei/api/v1/dataset/6c1ffab3-5957-4f2a-9c47-6c5c4c862a9a?scope=resourceAquire",
-        "format": "json"
-    },
-    {
-        "city": "台中市",
-        "url": "https://datacenter.taichung.gov.tw/swagger/OpenData/5e0579f5-08d0-4b77-9f6b-eca65aeb0541",
-        "format": "json"
-    },
-    {
-        "city": "台中市",
-        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/cfe37e8e-18c5-4cbf-bc38-47595038fa57?format=json",
-        "format": "json",
-        "is24h": True
-    },
-    {
-        "city": "台南市",
-        "url": "https://data.tainan.gov.tw/dataset/0c61b89d-46e4-43e1-8893-9478c30eeb3b/resource/61bb64f1-7d78-4c54-9275-3d76d7e45e3b/download/animal_hospital.json",
-        "format": "json"
-    },
-    {
-        "city": "高雄市",
-        "url": "https://api.kcg.gov.tw/api/service/Get/6a2e5103-d634-4a5c-8a9f-d2c3b4bc6fdf",
-        "format": "json"
-    },
-    {
-        "city": "南投縣",
-        "url": "https://data.nantou.gov.tw/od/data/api/CC2A9C1A-BC84-43D4-A8A2-6C1F5073BD08?$format=csv",
-        "format": "csv"
-    },
-    {
-        "city": "花蓮縣",
-        "url": "https://od.hl.gov.tw/dataset/50c72fb5-8ee7-4c69-a38a-9cb6785f2d60/resource/7f8b7d46-6d4c-45b5-8f68-3a88d3bc8c1c/download/animal_hospital.json",
-        "format": "json"
-    },
-    {
-        "city": "屏東縣",
-        "url": "https://data.pthg.gov.tw/api/3/action/datastore_search?resource_id=45f6f746-9cc6-4d13-b5d0-d0dc8b2c0d7a",
-        "format": "json"
-    }
+    { "city": "台北市", "url": "https://data.taipei/api/v1/dataset/6c1ffab3-5957-4f2a-9c47-6c5c4c862a9a?scope=resourceAquire", "format": "json" },
+    { "city": "新北市", "url": "https://data.ntpc.gov.tw/api/datasets/71E5B4E2-28F1-4B61-8B7F-19DF64A50A6D/json", "format": "json" },
+    { "city": "桃園市", "url": "https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=2bcf24d6-fec1-4a3e-8ed1-c6cb921bd3a2&rid=8f3a5c33-6c2d-4a72-872d-ec5d4c77985d", "format": "json" },
+    { "city": "台中市", "url": "https://datacenter.taichung.gov.tw/swagger/OpenData/5e0579f5-08d0-4b77-9f6b-eca65aeb0541", "format": "json" },
+    { "city": "台南市", "url": "https://data.tainan.gov.tw/dataset/0c61b89d-46e4-43e1-8893-9478c30eeb3b/resource/61bb64f1-7d78-4c54-9275-3d76d7e45e3b/download/animal_hospital.json", "format": "json" },
+    { "city": "高雄市", "url": "https://api.kcg.gov.tw/api/service/Get/6a2e5103-d634-4a5c-8a9f-d2c3b4bc6fdf", "format": "json" },
+    { "city": "基隆市", "url": "https://data.klcg.gov.tw/api/3/action/datastore_search?resource_id=TODO", "format": "json" },
+    { "city": "新竹市", "url": "https://opendata.hccg.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "嘉義市", "url": "https://data.chiayi.gov.tw/dataset/TODO", "format": "json" },
+    { "city": "新竹縣", "url": "https://data.hsinchu.gov.tw/dataset/TODO", "format": "json" },
+    { "city": "苗栗縣", "url": "https://opendata.miaoli.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "彰化縣", "url": "https://opendata.chcg.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "南投縣", "url": "https://data.nantou.gov.tw/od/data/api/CC2A9C1A-BC84-43D4-A8A2-6C1F5073BD08?$format=csv", "format": "csv" },
+    { "city": "雲林縣", "url": "https://data.yunlin.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "嘉義縣", "url": "https://data.cyhg.gov.tw/opendata/datalist/datasetMeta/download?id=TODO", "format": "json" },
+    { "city": "屏東縣", "url": "https://data.pthg.gov.tw/api/3/action/datastore_search?resource_id=45f6f746-9cc6-4d13-b5d0-d0dc8b2c0d7a", "format": "json" },
+    { "city": "宜蘭縣", "url": "https://opendata.e-land.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "花蓮縣", "url": "https://od.hl.gov.tw/dataset/50c72fb5-8ee7-4c69-a38a-9cb6785f2d60/resource/7f8b7d46-6d4c-45b5-8f68-3a88d3bc8c1c/download/animal_hospital.json", "format": "json" },
+    { "city": "台東縣", "url": "https://opendata.taitung.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "澎湖縣", "url": "https://data.phc.edu.tw/dataset/TODO", "format": "json" },
+    { "city": "金門縣", "url": "https://opendata.kinmen.gov.tw/api/service/get/TODO", "format": "json" },
+    { "city": "連江縣", "url": "https://opendata.matsu.gov.tw/api/service/get/TODO", "format": "json" }
 ]
 
 # 📌 縣市名稱正規化
@@ -76,8 +52,6 @@ def fetch_source(src):
                 records = raw
             elif "result" in raw and "records" in raw["result"]:
                 records = raw["result"]["records"]
-            elif "result" in raw and "results" in raw["result"]:
-                records = raw["result"]["results"]
             elif "records" in raw:
                 records = raw["records"]
         elif fmt == "csv":
@@ -85,7 +59,7 @@ def fetch_source(src):
             reader = csv.DictReader(f)
             records = list(reader)
 
-        print(f"🔍 {city} API 回傳 {len(records)} 筆原始資料")
+        print(f"🔍 {city} API 回傳 {len(records)} 筆")
 
         data = []
         for item in records:
@@ -98,9 +72,8 @@ def fetch_source(src):
                 "lat": item.get("緯度") or item.get("lat"),
                 "lng": item.get("經度") or item.get("lng"),
                 "category": "醫院",
-                "is24h": src.get("is24h", False) or ("24" in str(item))
+                "is24h": "24" in str(item)
             })
-
         print(f"✅ {city} 成功轉換 {len(data)} 筆")
         return data
 
