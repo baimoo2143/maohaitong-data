@@ -1,99 +1,129 @@
-# scripts/build_places.py
-import json, hashlib, os, re
+import requests
+import csv
+import io
+import json
 from datetime import datetime
 
-ROOT = os.path.dirname(os.path.dirname(__file__))
-AUTO_PATH   = os.path.join(ROOT, "data", "places_auto.json")
-MANUAL_PATH = os.path.join(ROOT, "data", "places_manual.json")
-OUT_PATH    = os.path.join(ROOT, "places.json")
-VER_PATH    = os.path.join(ROOT, "version.json")
+# ✅ 來源清單（先整理幾個有完整 API 的縣市）
+sources = [
+    {
+        "city": "新北市",
+        "url": "https://data.ntpc.gov.tw/api/datasets/de4cfd62-e977-4c4f-822f-7d2aa65f6e4a/json",
+        "format": "json"
+    },
+    {
+        "city": "台中市",
+        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/8e1bdc1c-a41a-4645-9bcb-0ec40c6ccf89?format=json",
+        "format": "json"
+    },
+    {
+        "city": "台中市",
+        "url": "https://opendata.taichung.gov.tw/api/v1/dataset/cfe37e8e-18c5-4cbf-bc38-47595038fa57?format=json",
+        "format": "json",  # 夜間急診 / 24H
+        "is24h": True
+    },
+    {
+        "city": "台南市",
+        "url": "https://data.tainan.gov.tw/api/3/action/datastore_search?resource_id=8f329f1e-f2c9-46f2-87df-37a9f0f9e05a",
+        "format": "json"
+    },
+    {
+        "city": "南投縣",
+        "url": "https://data.nantou.gov.tw/od/data/api/CC2A9C1A-BC84-43D4-A8A2-6C1F5073BD08?$format=csv",
+        "format": "csv"
+    },
+    # 後續可以再加其他縣市
+]
 
-def load_list(path):
-    if not os.path.exists(path): return []
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-        # 相容陣列或 { "places": [...] }
-        if isinstance(data, list): return data
-        return data.get("places", [])
+def normalize_city(name: str) -> str:
+    """把 臺 → 台，保持一致"""
+    return name.replace("臺", "台")
 
-def norm_city(s: str) -> str:
-    return (s or "").replace("臺", "台").strip()
+def fetch_source(src):
+    print(f"📥 抓取 {src['city']} 資料中…")
+    resp = requests.get(src["url"])
+    resp.raise_for_status()
 
-def to_bool_24h(val):
-    if isinstance(val, bool): return val
-    if not val: return False
-    s = str(val).lower()
-    return any(k in s for k in ["24h", "24小時", "24-hr", "24 hr", "24hours", "全天"])
+    data = []
+    if src["format"] == "json":
+        raw = resp.json()
+        # 嘗試不同 JSON 結構
+        if isinstance(raw, list):
+            records = raw
+        elif "result" in raw and "records" in raw["result"]:
+            records = raw["result"]["records"]
+        else:
+            records = raw.get("records", raw)
+        for item in records:
+            data.append({
+                "id": "",
+                "name": item.get("名稱") or item.get("醫院名稱") or item.get("name", ""),
+                "city": normalize_city(item.get("縣市", src["city"])),
+                "address": item.get("地址") or item.get("所在地") or "",
+                "phone": item.get("電話") or item.get("聯絡電話") or "",
+                "lat": float(item.get("緯度", 0) or 0),
+                "lng": float(item.get("經度", 0) or 0),
+                "category": "醫院",
+                "is24h": src.get("is24h", False) or ("24" in str(item.get("服務時間", "")))
+            })
+    elif src["format"] == "csv":
+        f = io.StringIO(resp.text)
+        reader = csv.DictReader(f)
+        for item in reader:
+            data.append({
+                "id": "",
+                "name": item.get("名稱") or item.get("醫院名稱") or "",
+                "city": normalize_city(item.get("縣市", src["city"])),
+                "address": item.get("地址") or "",
+                "phone": item.get("電話") or "",
+                "lat": float(item.get("緯度", 0) or 0),
+                "lng": float(item.get("經度", 0) or 0),
+                "category": "醫院",
+                "is24h": src.get("is24h", False) or ("24" in str(item))
+            })
+    return data
 
-def to_float(v, default=None):
-    try: return float(v)
-    except: return default
-
-def clean_phone(p):
-    if not p: return ""
-    return re.sub(r"[^0-9#\-\+\(\)\/ ]", "", str(p)).strip()
-
-def build_id(city, name, address):
-    base = f"{city}|{name}|{address}"
-    h = hashlib.sha1(base.encode("utf-8")).hexdigest()[:12]
-    return f"mh_{h}"
-
-def normalize_item(item):
-    m = dict(item)  # copy
-    m["city"]     = norm_city(str(m.get("city","")))
-    m["name"]     = str(m.get("name","")).strip()
-    m["address"]  = str(m.get("address","")).strip()
-    m["phone"]    = clean_phone(m.get("phone",""))
-    m["lat"]      = to_float(m.get("lat"), None)
-    m["lng"]      = to_float(m.get("lng"), None)
-
-    # 24H 判斷與類別歸一
-    is24 = to_bool_24h(m.get("is24h")) or to_bool_24h(m.get("category"))
-    m["is24h"] = bool(is24)
-    cat = str(m.get("category","")).strip()
-    if m["is24h"]:
-        m["category"] = "24H醫院" if cat in ["", "醫院", "24H", "24h", "24H醫院"] else cat
-    else:
-        m["category"] = "醫院" if cat in ["", "醫院", "24H", "24h"] else cat
-
-    # 生成穩定 id（若 manual 先給 id，會保留）
-    if not m.get("id"):
-        m["id"] = build_id(m["city"], m["name"], m["address"])
-
-    return m
-
-def key_for_merge(m):
-    # 用 name+address 做去重 key（大小寫不敏感）
-    return (m.get("name","").lower(), m.get("address","").lower())
+def load_manual():
+    try:
+        with open("data/places_manual.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return []
 
 def main():
-    auto  = [normalize_item(x) for x in load_list(AUTO_PATH)]
-    manual= [normalize_item(x) for x in load_list(MANUAL_PATH)]
+    all_places = []
 
-    merged = {}
-    # 先放自動資料
-    for it in auto:
-        merged[key_for_merge(it)] = it
-    # 再用手動覆蓋（優先權給 manual）
-    for it in manual:
-        merged[key_for_merge(it)] = it
+    # 抓取各來源
+    for src in sources:
+        try:
+            data = fetch_source(src)
+            all_places.extend(data)
+            print(f"✅ {src['city']} 抓到 {len(data)} 筆")
+        except Exception as e:
+            print(f"⚠️ {src['city']} 抓取失敗: {e}")
 
-    out_list = list(merged.values())
-    # 排序：city > category > name
-    out_list.sort(key=lambda x: (x.get("city",""), x.get("category",""), x.get("name","")))
+    # 存成 places_auto.json
+    with open("data/places_auto.json", "w", encoding="utf-8") as f:
+        json.dump(all_places, f, ensure_ascii=False, indent=2)
 
-    # 輸出最終 places.json（用陣列，與你現有 App 相容）
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(out_list, f, ensure_ascii=False, indent=2)
+    # 合併手動資料
+    manual = load_manual()
+    final = all_places + manual
 
-    # 版本資訊（可選）
-    with open(VER_PATH, "w", encoding="utf-8") as f:
-        json.dump({
-            "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "count": len(out_list)
-        }, f, ensure_ascii=False, indent=2)
+    # 加上 ID
+    for idx, item in enumerate(final, start=1):
+        item["id"] = f"{normalize_city(item['city'])}_{idx:04d}"
 
-    print(f"✅ build done: {len(out_list)} items")
+    # 輸出 places.json
+    with open("places.json", "w", encoding="utf-8") as f:
+        json.dump(final, f, ensure_ascii=False, indent=2)
+
+    # 更新版本號
+    version = {"last_updated": datetime.utcnow().isoformat()}
+    with open("version.json", "w", encoding="utf-8") as f:
+        json.dump(version, f, ensure_ascii=False, indent=2)
+
+    print(f"🎉 完成！共 {len(final)} 筆資料")
 
 if __name__ == "__main__":
     main()
