@@ -1,1 +1,32 @@
+name: Build Places JSON
+on:
+  push:
+    paths:
+      - "data/**"
+      - "scripts/build_places.py"
+  schedule:
+    - cron: "0 2 * * *"   # 每日 02:00 UTC 自動跑
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build places.json
+        run: python scripts/build_places.py
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rebuild places.json"
+          file_pattern: "places.json version.json"
 
