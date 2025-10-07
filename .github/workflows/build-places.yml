@@ -6,8 +6,8 @@ on:
       - "data/**"
       - "scripts/**"
   schedule:
-    - cron: "0 2 * * *"   # 每天 02:00 UTC 自動跑（台灣早上 10 點）
-  workflow_dispatch:       # ✅ 手動觸發（可在 Actions 頁面手動點）
+    - cron: "0 2 * * *"   # 每天 02:00 UTC（台灣早上 10 點）
+  workflow_dispatch:       # ✅ 可手動觸發
 
 permissions:
   contents: write
