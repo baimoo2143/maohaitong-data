@@ -2,46 +2,50 @@
   {
     "id": "TPE001",
     "city": "台北市",
-    "name": "全陽犬貓專科醫院",
-    "address": "台北市松山區八德路四段305號1樓",
-    "phone": "02-2762-7945",
+    "name": "厚德動物醫院",
+    "address": "台北市士林區華齡街54號",
+    "phone": "02-2883-1716",
     "category": "醫院",
     "rating": null,
-    "is24h": true,
-    "source": "台北市獸醫師公會名錄"
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE001"
   },
   {
     "id": "TPE002",
     "city": "台北市",
-    "name": "愛心動物醫院",
-    "address": "台北市信義區松仁路162號",
-    "phone": "02-2723-7739",
+    "name": "健生動物醫院",
+    "address": "台北市內湖區成功路4段182巷8弄4號",
+    "phone": "02-2791-0198",
     "category": "醫院",
     "rating": null,
-    "is24h": true,
-    "source": "台北市獸醫師公會名錄"
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE002"
   },
   {
     "id": "TPE003",
     "city": "台北市",
-    "name": "博愛動物醫院",
-    "address": "台北市大同區承德路三段209號",
-    "phone": "02-2592-6205",
+    "name": "敦化動物醫院",
+    "address": "台北市大安區敦化南路1段279號",
+    "phone": "02-2708-0284",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE003"
   },
   {
     "id": "TPE004",
     "city": "台北市",
     "name": "德安動物醫院",
-    "address": "台北市內湖區內湖路一段611號",
+    "address": "台北市內湖區內湖路1段611號",
     "phone": "02-2658-2478",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE004"
   },
   {
     "id": "TPE005",
@@ -52,10 +56,143 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE005"
   },
   {
     "id": "TPE006",
+    "city": "台北市",
+    "name": "社子動物醫院",
+    "address": "台北市士林區延平北路5段191號",
+    "phone": "02-2816-5355",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE006"
+  },
+  {
+    "id": "TPE007",
+    "city": "台北市",
+    "name": "宏成動物醫院",
+    "address": "台北市大安區和平東路3段66之1號",
+    "phone": "02-2378-0228",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE007"
+  },
+  {
+    "id": "TPE008",
+    "city": "台北市",
+    "name": "全陽犬貓專科醫院",
+    "address": "台北市松山區八德路4段305號1樓",
+    "phone": "02-2762-7945",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE008"
+  },
+  {
+    "id": "TPE009",
+    "city": "台北市",
+    "name": "文逸動物醫院",
+    "address": "台北市信義區和平東路3段391巷8弄27號",
+    "phone": "02-2732-2254",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE009"
+  },
+  {
+    "id": "TPE010",
+    "city": "台北市",
+    "name": "環南動物醫院",
+    "address": "台北市萬華區和平西路3段205號",
+    "phone": "02-2302-0109",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE010"
+  },
+  {
+    "id": "TPE011",
+    "city": "台北市",
+    "name": "再興動物醫院",
+    "address": "台北市文山區興隆路1段1號",
+    "phone": "02-2934-2899",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE011"
+  },
+  {
+    "id": "TPE012",
+    "city": "台北市",
+    "name": "弘吉獸醫院",
+    "address": "台北市大安區市民大道3段236及238號",
+    "phone": "02-2741-0958",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺北市獸醫師公會名錄",
+    "legacyId": "TPE012"
+  },
+  {
+    "id": "TPE013",
+    "city": "台北市",
+    "name": "全陽犬貓專科醫院",
+    "address": "台北市松山區八德路四段305號1樓",
+    "phone": "02-2762-7945",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE001"
+  },
+  {
+    "id": "TPE014",
+    "city": "台北市",
+    "name": "愛心動物醫院",
+    "address": "台北市信義區松仁路162號",
+    "phone": "02-2723-7739",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE002"
+  },
+  {
+    "id": "TPE015",
+    "city": "台北市",
+    "name": "博愛動物醫院",
+    "address": "台北市大同區承德路三段209號",
+    "phone": "02-2592-6205",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE003"
+  },
+  {
+    "id": "TPE016",
+    "city": "台北市",
+    "name": "德安動物醫院",
+    "address": "台北市內湖區內湖路一段611號",
+    "phone": "02-2658-2478",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE004"
+  },
+  {
+    "id": "TPE017",
     "city": "台北市",
     "name": "再興動物醫院",
     "address": "台北市文山區興隆路一段1號",
@@ -63,21 +200,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE006"
   },
   {
-    "id": "TPE007",
-    "city": "台北市",
-    "name": "厚德動物醫院",
-    "address": "台北市士林區華齡街54號",
-    "phone": "02-2883-1716",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "台北市獸醫師公會名錄"
-  },
-  {
-    "id": "TPE008",
+    "id": "TPE018",
     "city": "台北市",
     "name": "健生動物醫院",
     "address": "台北市內湖區成功路四段182巷8弄4號",
@@ -85,10 +212,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE008"
   },
   {
-    "id": "TPE009",
+    "id": "TPE019",
     "city": "台北市",
     "name": "宏成動物醫院",
     "address": "台北市大安區和平東路三段66之1號",
@@ -96,10 +224,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE009"
   },
   {
-    "id": "TPE010",
+    "id": "TPE020",
     "city": "台北市",
     "name": "敦化動物醫院",
     "address": "台北市大安區敦化南路一段279號",
@@ -107,73 +236,200 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台北市獸醫師公會名錄"
+    "source": "台北市獸醫師公會名錄",
+    "legacyId": "TPE010"
   },
   {
-    "id": "KEL001",
-    "city": "基隆市",
-    "name": "臺大興安動物醫院",
-    "address": "基隆市信義區信二路43號1樓",
-    "phone": "02-2425-0231",
+    "id": "NTP001",
+    "city": "新北市",
+    "name": "琪欣動物醫院",
+    "address": "新北市林口區仁愛路二段323號1樓",
+    "phone": "02-2602-8207",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC001"
   },
   {
-    "id": "KEL002",
-    "city": "基隆市",
-    "name": "台大良一動物醫院",
-    "address": "基隆市信義區義九路2號",
-    "phone": "02-2426-3021",
+    "id": "NTP002",
+    "city": "新北市",
+    "name": "旭生動物醫院",
+    "address": "新北市三重區元信二街170號1樓",
+    "phone": "02-2857-3928",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC002"
   },
   {
-    "id": "KEL003",
-    "city": "基隆市",
-    "name": "東尚動物醫院",
-    "address": "基隆市信義區東明路159號",
-    "phone": "02-2465-3088",
+    "id": "NTP003",
+    "city": "新北市",
+    "name": "維納斯動物醫院",
+    "address": "新北市板橋區中山路一段105號1樓",
+    "phone": "02-2953-9080",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC003"
   },
   {
-    "id": "KEL004",
-    "city": "基隆市",
-    "name": "旺旺犬貓及特殊寵物專科醫院",
-    "address": "基隆市信義區中興路26號",
-    "phone": "02-2427-0563",
+    "id": "NTP004",
+    "city": "新北市",
+    "name": "心橋動物醫院",
+    "address": "新北市新店區寶強路2之1號1樓",
+    "phone": "02-2911-2119",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC004"
+  },
+  {
+    "id": "NTP005",
+    "city": "新北市",
+    "name": "慈愛動物醫院東森廣場分院",
+    "address": "新北市中和區景平路258號1樓",
+    "phone": "02-2940-8855",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC005"
+  },
+  {
+    "id": "NTP006",
+    "city": "新北市",
+    "name": "愛叮寶犬貓專科醫院",
+    "address": "新北市板橋區合宜一路175號",
+    "phone": "02-8969-3689",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC006"
+  },
+  {
+    "id": "NTP007",
+    "city": "新北市",
+    "name": "聽狗嶼動物診所",
+    "address": "新北市永和區秀朗路二段120號",
+    "phone": "02-2231-2151",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC007"
+  },
+  {
+    "id": "NTP008",
+    "city": "新北市",
+    "name": "欣光動物醫院",
+    "address": "新北市板橋區中正路332-3號",
+    "phone": "02-2969-9980",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC008"
+  },
+  {
+    "id": "NTP009",
+    "city": "新北市",
+    "name": "毛花花動物醫院",
+    "address": "新北市新店區民族路16-1號",
+    "phone": "02-2910-0069",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC009"
+  },
+  {
+    "id": "NTP010",
+    "city": "新北市",
+    "name": "初日動物醫院",
+    "address": "新北市新店區民族路25號",
+    "phone": "02-2910-0566",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC010"
+  },
+  {
+    "id": "NTP011",
+    "city": "新北市",
+    "name": "艾樂動物醫院",
+    "address": "新北市林口區文化三路一段103號",
+    "phone": "02-2601-8203",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC011"
+  },
+  {
+    "id": "NTP012",
+    "city": "新北市",
+    "name": "慕光動物醫院",
+    "address": "新北市淡水區中山北路一段174號",
+    "phone": "02-2629-9011",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市政府農業局開放資料／新北市獸醫師公會院所名錄",
+    "legacyId": "NTPC012"
+  },
+  {
+    "id": "NTP013",
+    "city": "新北市",
+    "name": "大群動物醫院",
+    "address": "新北市板橋區文化路一段285號",
+    "phone": "02-2258-6119",
     "category": "醫院",
     "rating": null,
     "is24h": true,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市動保處名冊",
+    "legacyId": "NTPC001"
   },
   {
-    "id": "KEL005",
-    "city": "基隆市",
-    "name": "林犬貓專科醫院",
-    "address": "基隆市信義區信二路87號",
-    "phone": "02-2429-1552",
+    "id": "NTP014",
+    "city": "新北市",
+    "name": "板橋中正動物醫院",
+    "address": "新北市板橋區中正路274號",
+    "phone": "02-2964-3232",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市動保處名冊",
+    "legacyId": "NTPC002"
   },
   {
-    "id": "KEL006",
-    "city": "基隆市",
-    "name": "祥恩動物醫院",
-    "address": "基隆市信義區深美街91號",
-    "phone": "02-2465-5632",
+    "id": "NTP015",
+    "city": "新北市",
+    "name": "板橋元氣動物醫院",
+    "address": "新北市板橋區長江路一段196號",
+    "phone": "02-2257-0070",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "基隆市動物保護防疫所"
+    "source": "新北市動保處名冊",
+    "legacyId": "NTPC003"
+  },
+  {
+    "id": "NTP016",
+    "city": "新北市",
+    "name": "三重宏恩動物醫院",
+    "address": "新北市三重區重新路四段8號",
+    "phone": "02-2981-3940",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新北市動保處名冊",
+    "legacyId": "NTPC004"
   },
   {
     "id": "TYC001",
@@ -184,7 +440,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "桃園市動物醫院名冊"
+    "source": "桃園市動物醫院（診所）名冊",
+    "legacyId": "TYC001"
   },
   {
     "id": "TYC002",
@@ -195,7 +452,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "桃園市動物醫院名冊"
+    "source": "桃園市動物醫院（診所）名冊",
+    "legacyId": "TYC002"
   },
   {
     "id": "TYC003",
@@ -206,7 +464,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "桃園市動物醫院名冊"
+    "source": "桃園市動物醫院（診所）名冊",
+    "legacyId": "TYC003"
   },
   {
     "id": "TYC004",
@@ -216,19 +475,69 @@
     "phone": "03-316-3131",
     "category": "醫院",
     "rating": null,
-    "is24h": true,
-    "source": "桃園市動物醫院名冊"
+    "is24h": false,
+    "source": "桃園市動物醫院（診所）名冊",
+    "legacyId": "TYC004"
+  },
+  {
+    "id": "HSC001",
+    "city": "新竹市",
+    "name": "康乃爾動物醫院",
+    "address": "新竹市東區光復路一段263號",
+    "phone": "03-572-1178",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新竹市動物醫院開業執業（開放資料）",
+    "legacyId": "HCCITY001"
+  },
+  {
+    "id": "HSC002",
+    "city": "新竹市",
+    "name": "大成動物醫院",
+    "address": "新竹市北區西大路311號",
+    "phone": "03-526-6185",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新竹市動物醫院開業執業（開放資料）",
+    "legacyId": "HCCITY002"
+  },
+  {
+    "id": "HSC003",
+    "city": "新竹市",
+    "name": "仁愛動物醫院",
+    "address": "新竹市東區建功一路53號",
+    "phone": "03-571-4429",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新竹市動物醫院開業執業（開放資料）",
+    "legacyId": "HCCITY003"
+  },
+  {
+    "id": "HSC004",
+    "city": "新竹市",
+    "name": "新竹仁心動物醫院",
+    "address": "新竹市東區忠孝路105號",
+    "phone": "03-575-1100",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "新竹市動物醫院開業執業（開放資料）",
+    "legacyId": "HCCITY004"
   },
   {
     "id": "HCC001",
     "city": "新竹縣",
     "name": "傑克動物醫院",
     "address": "新竹縣竹北市中山路128號",
-    "phone": "03-553-3235",
+    "phone": "0932-167-961",
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC001"
   },
   {
     "id": "HCC002",
@@ -239,7 +548,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC002"
   },
   {
     "id": "HCC003",
@@ -250,7 +560,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC003"
   },
   {
     "id": "HCC004",
@@ -261,7 +572,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC004"
   },
   {
     "id": "HCC005",
@@ -272,7 +584,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC005"
   },
   {
     "id": "HCC006",
@@ -283,7 +596,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
+    "source": "新竹縣獸醫診療機構名冊",
+    "legacyId": "HCC006"
   },
   {
     "id": "HCC007",
@@ -294,98 +608,83 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "新竹縣家畜疾病防治所名冊"
-  },
-  {
-    "id": "HCCITY001",
-    "city": "新竹市",
-    "name": "康乃爾動物醫院",
-    "address": "新竹市東區光復路一段263號",
-    "phone": "03-572-1178",
-    "category": "醫院",
-    "rating": null,
-    "is24h": true,
-    "source": "新竹市動物醫院名冊"
-  },
-  {
-    "id": "HCCITY002",
-    "city": "新竹市",
-    "name": "大成動物醫院",
-    "address": "新竹市北區西大路311號",
-    "phone": "03-526-6185",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新竹市動物醫院名冊"
-  },
-  {
-    "id": "HCCITY003",
-    "city": "新竹市",
-    "name": "仁愛動物醫院",
-    "address": "新竹市東區建功一路53號",
-    "phone": "03-571-4429",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新竹市動物醫院名冊"
-  },
-  {
-    "id": "HCCITY004",
-    "city": "新竹市",
-    "name": "新竹仁心動物醫院",
-    "address": "新竹市東區忠孝路105號",
-    "phone": "03-575-1100",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新竹市動物醫院名冊"
-  },
-  {
-    "id": "NTPC001",
-    "city": "新北市",
-    "name": "大群動物醫院",
-    "address": "新北市板橋區文化路一段285號",
-    "phone": "02-2258-6119",
-    "category": "醫院",
-    "rating": null,
-    "is24h": true,
-    "source": "新北市動保處名冊"
-  },
-  {
-    "id": "NTPC002",
-    "city": "新北市",
-    "name": "板橋中正動物醫院",
-    "address": "新北市板橋區中正路274號",
-    "phone": "02-2964-3232",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新北市動保處名冊"
-  },
-  {
-    "id": "NTPC003",
-    "city": "新北市",
-    "name": "板橋元氣動物醫院",
-    "address": "新北市板橋區長江路一段196號",
-    "phone": "02-2257-0070",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新北市動保處名冊"
-  },
-  {
-    "id": "NTPC004",
-    "city": "新北市",
-    "name": "三重宏恩動物醫院",
-    "address": "新北市三重區重新路四段8號",
-    "phone": "02-2981-3940",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "新北市動保處名冊"
+    "source": "新竹縣家畜疾病防治所名冊",
+    "legacyId": "HCC007"
   },
   {
     "id": "TXG001",
+    "city": "台中市",
+    "name": "佳恩動物醫院",
+    "address": "台中市南區美村路二段88號",
+    "phone": "04-23713806",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG018"
+  },
+  {
+    "id": "TXG002",
+    "city": "台中市",
+    "name": "長和動物醫院",
+    "address": "台中市南區國光路45號",
+    "phone": "04-22219626",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG013"
+  },
+  {
+    "id": "TXG003",
+    "city": "台中市",
+    "name": "聖愛動物醫院",
+    "address": "台中市南區復興路一段405號",
+    "phone": "04-22619245",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG014"
+  },
+  {
+    "id": "TXG004",
+    "city": "台中市",
+    "name": "崇倫動物醫院",
+    "address": "台中市南區忠明南路578號",
+    "phone": "04-23718709",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG015"
+  },
+  {
+    "id": "TXG005",
+    "city": "台中市",
+    "name": "迦南動物醫院",
+    "address": "台中市南區高工路285號",
+    "phone": "04-22651515",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG016"
+  },
+  {
+    "id": "TXG006",
+    "city": "台中市",
+    "name": "祥億動物醫院",
+    "address": "台中市南區復興路一段259號",
+    "phone": "04-22606450",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG017"
+  },
+  {
+    "id": "TXG007",
     "city": "台中市",
     "name": "胖胖動物醫院",
     "address": "台中市南區國光路58號",
@@ -393,10 +692,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG018B"
   },
   {
-    "id": "TXG002",
+    "id": "TXG008",
     "city": "台中市",
     "name": "碩恩動物醫院",
     "address": "台中市南區德祥街72號",
@@ -404,10 +704,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG019"
   },
   {
-    "id": "TXG003",
+    "id": "TXG009",
     "city": "台中市",
     "name": "尼昂貓專科醫院",
     "address": "台中市南區復興路二段133號",
@@ -415,10 +716,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG020"
   },
   {
-    "id": "TXG004",
+    "id": "TXG010",
     "city": "台中市",
     "name": "巷弄動物醫院",
     "address": "台中市南區復興路二段15巷28號",
@@ -426,10 +728,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG021"
   },
   {
-    "id": "TXG005",
+    "id": "TXG011",
     "city": "台中市",
     "name": "歐米咖動物醫院",
     "address": "台中市南區建國南路一段246號",
@@ -437,10 +740,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG022"
   },
   {
-    "id": "TXG006",
+    "id": "TXG012",
     "city": "台中市",
     "name": "高生動物醫院",
     "address": "台中市南區信義南街249號",
@@ -448,10 +752,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 動物醫院名冊",
+    "legacyId": "TXG023"
   },
   {
-    "id": "TXG007",
+    "id": "TXG013",
     "city": "台中市",
     "name": "侏儸紀野生動物專科醫院",
     "address": "台中市西區英才路625號",
@@ -459,10 +764,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 合法動物醫院名冊",
+    "legacyId": "TXG007"
   },
   {
-    "id": "TXG008",
+    "id": "TXG014",
     "city": "台中市",
     "name": "中興大學獸醫教學醫院",
     "address": "台中市南區文心南路120號?",
@@ -470,10 +776,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 合法動物醫院名冊",
+    "legacyId": "TXG008"
   },
   {
-    "id": "TXG009",
+    "id": "TXG015",
     "city": "台中市",
     "name": "伴心特殊寵物專科醫院",
     "address": "台中市南屯區文心路一段430號",
@@ -481,10 +788,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 合法動物醫院名冊",
+    "legacyId": "TXG009"
   },
   {
-    "id": "TXG010",
+    "id": "TXG016",
     "city": "台中市",
     "name": "毛克利動物醫院",
     "address": "台中市北屯區文心路四段690號",
@@ -492,10 +800,131 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "臺中市動物保護防疫處 合法動物醫院名冊"
+    "source": "臺中市動物保護防疫處 合法動物醫院名冊",
+    "legacyId": "TXG010"
   },
   {
     "id": "CHA001",
+    "city": "彰化縣",
+    "name": "興旺動物醫院",
+    "address": "彰化縣彰化市進德路90號",
+    "phone": "04-7242277",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA001"
+  },
+  {
+    "id": "CHA002",
+    "city": "彰化縣",
+    "name": "永興家畜醫院",
+    "address": "彰化縣永靖鄉永北村水尾路226號",
+    "phone": "04-8223082",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA002"
+  },
+  {
+    "id": "CHA003",
+    "city": "彰化縣",
+    "name": "宏宜家畜醫院",
+    "address": "彰化縣埤頭鄉合興村中央路696巷38號",
+    "phone": "04-8921893",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA003"
+  },
+  {
+    "id": "CHA004",
+    "city": "彰化縣",
+    "name": "林獸醫動物診所",
+    "address": "彰化縣員林市林森路231巷21號7樓",
+    "phone": "04-8337218",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA004"
+  },
+  {
+    "id": "CHA005",
+    "city": "彰化縣",
+    "name": "百果山動物診所",
+    "address": "彰化縣員林市員水路一段228號",
+    "phone": "04-8310588",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA005"
+  },
+  {
+    "id": "CHA006",
+    "city": "彰化縣",
+    "name": "華成家畜診所",
+    "address": "彰化縣員林市大同路二段30號",
+    "phone": "04-8328112",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA006"
+  },
+  {
+    "id": "CHA007",
+    "city": "彰化縣",
+    "name": "吉美動物醫院",
+    "address": "彰化縣二林鎮二溪路一段48巷4號",
+    "phone": "04-8966360",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA007"
+  },
+  {
+    "id": "CHA008",
+    "city": "彰化縣",
+    "name": "農友之家動物醫院",
+    "address": "彰化縣員林市育英路113號",
+    "phone": "04-8321267",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA008"
+  },
+  {
+    "id": "CHA009",
+    "city": "彰化縣",
+    "name": "王功動物診所",
+    "address": "彰化縣芳苑鄉芳漢路王功段613號",
+    "phone": "04-8932039",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA009"
+  },
+  {
+    "id": "CHA010",
+    "city": "彰化縣",
+    "name": "永成家畜診所",
+    "address": "彰化縣永靖鄉四湳路235號",
+    "phone": "04-8222132",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "彰化縣獸醫師公會 開業會員名冊",
+    "legacyId": "CHA010"
+  },
+  {
+    "id": "CHA011",
     "city": "彰化縣",
     "name": "謝獸醫動物醫院",
     "address": "彰化縣彰化市中山路二段616號",
@@ -503,10 +932,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA001"
   },
   {
-    "id": "CHA002",
+    "id": "CHA012",
     "city": "彰化縣",
     "name": "生偉動物醫院",
     "address": "彰化縣員林市雙平路15號",
@@ -514,10 +944,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA002"
   },
   {
-    "id": "CHA003",
+    "id": "CHA013",
     "city": "彰化縣",
     "name": "中國動物醫院",
     "address": "彰化縣員林市中山路二段477-1號",
@@ -525,10 +956,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA003"
   },
   {
-    "id": "CHA004",
+    "id": "CHA014",
     "city": "彰化縣",
     "name": "躍犬動物醫院",
     "address": "彰化縣北斗鎮四維路66號",
@@ -536,10 +968,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA004"
   },
   {
-    "id": "CHA005",
+    "id": "CHA015",
     "city": "彰化縣",
     "name": "博愛動物醫院",
     "address": "彰化縣彰化市中山路二段955號",
@@ -547,10 +980,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA005"
   },
   {
-    "id": "CHA006",
+    "id": "CHA016",
     "city": "彰化縣",
     "name": "獸依動物醫院",
     "address": "彰化縣彰化市中山路二段289號",
@@ -558,10 +992,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA006"
   },
   {
-    "id": "CHA007",
+    "id": "CHA017",
     "city": "彰化縣",
     "name": "喬喬動物醫院",
     "address": "彰化縣和美鎮仁美路165號",
@@ -569,10 +1004,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA007"
   },
   {
-    "id": "CHA008",
+    "id": "CHA018",
     "city": "彰化縣",
     "name": "惟仁動物醫院",
     "address": "彰化縣溪湖鎮彰水路二段175號",
@@ -580,10 +1016,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA008"
   },
   {
-    "id": "CHA009",
+    "id": "CHA019",
     "city": "彰化縣",
     "name": "華成動物醫院",
     "address": "彰化縣員林市大同路二段30號",
@@ -591,10 +1028,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA009"
   },
   {
-    "id": "CHA010",
+    "id": "CHA020",
     "city": "彰化縣",
     "name": "青田動物醫院",
     "address": "彰化縣員林市莒光路697-6號",
@@ -602,10 +1040,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整"
+    "source": "彰化縣獸醫師公會 開業會員名冊/通路名單彙整",
+    "legacyId": "CHA010"
   },
   {
-    "id": "NTC001",
+    "id": "NTO001",
     "city": "南投縣",
     "name": "東南動物醫院",
     "address": "南投縣南投市復興路98號",
@@ -613,10 +1052,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "南投縣家畜疾病防治所 動物醫院列表"
+    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站",
+    "legacyId": "NTC001"
   },
   {
-    "id": "NTC002",
+    "id": "NTO002",
     "city": "南投縣",
     "name": "達特朗動物醫院",
     "address": "南投縣南投市祖祠路75號",
@@ -624,10 +1064,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "南投縣家畜疾病防治所 動物醫院列表"
+    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站",
+    "legacyId": "NTC002"
   },
   {
-    "id": "NTC003",
+    "id": "NTO003",
     "city": "南投縣",
     "name": "佑犬動物醫院",
     "address": "南投縣南投市虎山路58號",
@@ -635,7 +1076,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "南投縣家畜疾病防治所 動物醫院列表"
+    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站",
+    "legacyId": "NTC003"
   },
   {
     "id": "YUN001",
@@ -646,7 +1088,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN001"
   },
   {
     "id": "YUN002",
@@ -657,7 +1100,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN002"
   },
   {
     "id": "YUN003",
@@ -668,7 +1112,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN003"
   },
   {
     "id": "YUN004",
@@ -679,7 +1124,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN004"
   },
   {
     "id": "YUN005",
@@ -690,7 +1136,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN005"
   },
   {
     "id": "YUN006",
@@ -701,7 +1148,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN006"
   },
   {
     "id": "YUN007",
@@ -712,7 +1160,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN007"
   },
   {
     "id": "YUN008",
@@ -723,7 +1172,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN008"
   },
   {
     "id": "YUN009",
@@ -734,7 +1184,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN009"
   },
   {
     "id": "YUN010",
@@ -745,10 +1196,131 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "雲林縣犬貓動物醫院名冊"
+    "source": "雲林縣動植物防疫所 雲林縣內犬貓動物醫院名冊",
+    "legacyId": "YUN010"
   },
   {
     "id": "MIA001",
+    "city": "苗栗縣",
+    "name": "永昌家畜醫院",
+    "address": "苗栗縣苗栗市至公路29號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA001"
+  },
+  {
+    "id": "MIA002",
+    "city": "苗栗縣",
+    "name": "榮源家畜醫院",
+    "address": "苗栗縣苗栗市中山路595號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA002"
+  },
+  {
+    "id": "MIA003",
+    "city": "苗栗縣",
+    "name": "健成家畜綜合醫院",
+    "address": "苗栗縣苗栗市和平路69號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA003"
+  },
+  {
+    "id": "MIA004",
+    "city": "苗栗縣",
+    "name": "博仁動物醫院",
+    "address": "苗栗縣苗栗市至公路229號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA004"
+  },
+  {
+    "id": "MIA005",
+    "city": "苗栗縣",
+    "name": "全生動物醫院",
+    "address": "苗栗縣苗栗市玉清路63號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA005"
+  },
+  {
+    "id": "MIA006",
+    "city": "苗栗縣",
+    "name": "東方獸醫院",
+    "address": "苗栗縣苗栗市中山路72-1號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA006"
+  },
+  {
+    "id": "MIA007",
+    "city": "苗栗縣",
+    "name": "莫耳動物醫院",
+    "address": "苗栗縣苗栗市為公路328號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA007"
+  },
+  {
+    "id": "MIA008",
+    "city": "苗栗縣",
+    "name": "安達動物醫院苗栗分院",
+    "address": "苗栗縣苗栗市中華路195號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA008"
+  },
+  {
+    "id": "MIA009",
+    "city": "苗栗縣",
+    "name": "長安動物醫院",
+    "address": "苗栗縣苗栗市長安街22號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA009"
+  },
+  {
+    "id": "MIA010",
+    "city": "苗栗縣",
+    "name": "中華動物醫院",
+    "address": "苗栗縣頭份市中華路1307號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "苗栗縣動物保護防疫所 合法動物醫院/合約名單（PDF）",
+    "legacyId": "MIA010"
+  },
+  {
+    "id": "MIA011",
     "city": "苗栗縣",
     "name": "永昌動物醫院",
     "address": "苗栗縣苗栗市至公路29號",
@@ -756,10 +1328,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA001"
   },
   {
-    "id": "MIA002",
+    "id": "MIA012",
     "city": "苗栗縣",
     "name": "榮源家畜醫院",
     "address": "苗栗縣苗栗市中山路593號",
@@ -767,21 +1340,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA002"
   },
   {
-    "id": "MIA003",
-    "city": "苗栗縣",
-    "name": "全生動物醫院",
-    "address": "苗栗縣苗栗市玉清路63號",
-    "phone": "037-350685",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
-  },
-  {
-    "id": "MIA004",
+    "id": "MIA013",
     "city": "苗栗縣",
     "name": "波比寵物專科診所",
     "address": "苗栗縣竹南鎮光復路436號",
@@ -789,10 +1352,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA004"
   },
   {
-    "id": "MIA005",
+    "id": "MIA014",
     "city": "苗栗縣",
     "name": "全民動物醫院-竹南院",
     "address": "苗栗縣竹南鎮博愛街120號",
@@ -800,10 +1364,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA005"
   },
   {
-    "id": "MIA006",
+    "id": "MIA015",
     "city": "苗栗縣",
     "name": "聖心動物醫院",
     "address": "苗栗縣竹南鎮環市路一段205號",
@@ -811,10 +1376,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA006"
   },
   {
-    "id": "MIA007",
+    "id": "MIA016",
     "city": "苗栗縣",
     "name": "健生動物醫院",
     "address": "苗栗縣竹南鎮環市路二段141號",
@@ -822,10 +1388,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA007"
   },
   {
-    "id": "MIA008",
+    "id": "MIA017",
     "city": "苗栗縣",
     "name": "後龍動物醫院",
     "address": "苗栗縣後龍鎮成功路311號",
@@ -833,10 +1400,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA008"
   },
   {
-    "id": "MIA009",
+    "id": "MIA018",
     "city": "苗栗縣",
     "name": "仁心動物醫院",
     "address": "苗栗縣苑裡鎮世界路一段118-1號",
@@ -844,10 +1412,11 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA009"
   },
   {
-    "id": "MIA010",
+    "id": "MIA019",
     "city": "苗栗縣",
     "name": "通霄獸醫院",
     "address": "苗栗縣通霄鎮福德路5號",
@@ -855,7 +1424,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整"
+    "source": "苗栗縣合法動物醫院名冊/苗栗縣獸醫相關名錄彙整",
+    "legacyId": "MIA010"
   },
   {
     "id": "CYI001",
@@ -866,7 +1436,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義市動物醫院名錄"
+    "source": "嘉義市動物醫院名單（市府開放資料）",
+    "legacyId": "CYI001"
   },
   {
     "id": "CYI002",
@@ -877,7 +1448,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義市動物醫院名錄"
+    "source": "嘉義市動物醫院名單（市府開放資料）",
+    "legacyId": "CYI002"
   },
   {
     "id": "CYI003",
@@ -888,7 +1460,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義市動物醫院名錄"
+    "source": "嘉義市動物醫院名單（市府開放資料）",
+    "legacyId": "CYI003"
   },
   {
     "id": "CYC001",
@@ -899,7 +1472,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義縣合法動物醫院清單"
+    "source": "嘉義縣政府公告：獸醫診療機構（寵物）",
+    "legacyId": "CYC001"
   },
   {
     "id": "CYC002",
@@ -910,7 +1484,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義縣合法動物醫院清單"
+    "source": "嘉義縣政府公告：獸醫診療機構（寵物）",
+    "legacyId": "CYC002"
   },
   {
     "id": "CYC003",
@@ -921,7 +1496,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "嘉義縣合法動物醫院清單"
+    "source": "嘉義縣政府公告：獸醫診療機構（寵物）",
+    "legacyId": "CYC003"
   },
   {
     "id": "TNN001",
@@ -932,7 +1508,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台南市動物醫院名冊"
+    "source": "台南市動物防疫保護處：合作/特約醫院名單",
+    "legacyId": "TNN001"
   },
   {
     "id": "TNN002",
@@ -943,7 +1520,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台南市動物醫院名冊"
+    "source": "台南市動物防疫保護處：合作/特約醫院名單",
+    "legacyId": "TNN002"
   },
   {
     "id": "TNN003",
@@ -954,7 +1532,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台南市動物醫院名冊"
+    "source": "台南市動物防疫保護處：合作/特約醫院名單",
+    "legacyId": "TNN003"
   },
   {
     "id": "TNN004",
@@ -965,7 +1544,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台南市動物醫院名冊"
+    "source": "台南市動物防疫保護處：合作/特約醫院名單",
+    "legacyId": "TNN004"
   },
   {
     "id": "TNN005",
@@ -976,7 +1556,56 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台南市動物醫院名冊"
+    "source": "台南市動物防疫保護處：合作/特約醫院名單",
+    "legacyId": "TNN005"
+  },
+  {
+    "id": "TNN006",
+    "city": "台南市",
+    "name": "台南分院24小時寵物急診",
+    "address": "台南市東區崇德路620號2樓",
+    "phone": "06-2673191",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "vet.com.tw",
+    "legacyId": "TNN006"
+  },
+  {
+    "id": "TNN007",
+    "city": "台南市",
+    "name": "中美獸醫院",
+    "address": "台南市東區",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "savh.com.tw",
+    "legacyId": "TNN007"
+  },
+  {
+    "id": "TNN008",
+    "city": "台南市",
+    "name": "可昕犬貓專科醫院",
+    "address": "台南市安南區",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "kexinah.com.tw",
+    "legacyId": "TNN008"
+  },
+  {
+    "id": "TNN009",
+    "city": "台南市",
+    "name": "豆卡動物醫院",
+    "address": "台南市東區裕農路300號",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "dcvet.com.tw",
+    "legacyId": "TNN009"
   },
   {
     "id": "KHH001",
@@ -987,7 +1616,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH001"
   },
   {
     "id": "KHH002",
@@ -998,7 +1628,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH002"
   },
   {
     "id": "KHH003",
@@ -1009,7 +1640,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH003"
   },
   {
     "id": "KHH004",
@@ -1020,7 +1652,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH004"
   },
   {
     "id": "KHH005",
@@ -1031,7 +1664,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH005"
   },
   {
     "id": "KHH006",
@@ -1042,7 +1676,56 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "高雄市動物醫院名錄"
+    "source": "高雄市家畜衛生防治所／公會名錄彙整",
+    "legacyId": "KHH006"
+  },
+  {
+    "id": "KHH007",
+    "city": "高雄市",
+    "name": "順心動物醫院",
+    "address": "高雄市三民區大順二路233號",
+    "phone": "07-3809382",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "yatongvet.com",
+    "legacyId": "KHH007"
+  },
+  {
+    "id": "KHH008",
+    "city": "高雄市",
+    "name": "中興梅西動物醫療中心",
+    "address": "高雄市左營區文府路498號",
+    "phone": "07-3502020",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "jsah.com.tw",
+    "legacyId": "KHH008"
+  },
+  {
+    "id": "KHH009",
+    "city": "高雄市",
+    "name": "星羽動物醫院",
+    "address": "高雄市",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "starfeather.com.tw",
+    "legacyId": "KHH009"
+  },
+  {
+    "id": "KHH010",
+    "city": "高雄市",
+    "name": "健生動物醫院",
+    "address": "高雄市前鎮區",
+    "phone": null,
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "kva.idv.tw",
+    "legacyId": "KHH010"
   },
   {
     "id": "PIF001",
@@ -1053,7 +1736,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "屏東縣動物醫院名冊"
+    "source": "屏東縣政府：獸醫診療機構名冊",
+    "legacyId": "PIF001"
   },
   {
     "id": "PIF002",
@@ -1064,7 +1748,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "屏東縣動物醫院名冊"
+    "source": "屏東縣政府：獸醫診療機構名冊",
+    "legacyId": "PIF002"
   },
   {
     "id": "PIF003",
@@ -1075,7 +1760,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "屏東縣動物醫院名冊"
+    "source": "屏東縣政府：獸醫診療機構名冊",
+    "legacyId": "PIF003"
   },
   {
     "id": "PIF004",
@@ -1086,7 +1772,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "屏東縣動物醫院名冊"
+    "source": "屏東縣政府：獸醫診療機構名冊",
+    "legacyId": "PIF004"
   },
   {
     "id": "PIF005",
@@ -1097,7 +1784,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "屏東縣動物醫院名冊"
+    "source": "屏東縣政府：獸醫診療機構名冊",
+    "legacyId": "PIF005"
   },
   {
     "id": "ILA001",
@@ -1108,7 +1796,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
+    "source": "宜蘭縣動物醫院名冊",
+    "legacyId": "ILA001"
   },
   {
     "id": "ILA002",
@@ -1119,7 +1808,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
+    "source": "宜蘭縣動物醫院名冊",
+    "legacyId": "ILA002"
   },
   {
     "id": "ILA003",
@@ -1130,7 +1820,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
+    "source": "宜蘭縣動物醫院名冊",
+    "legacyId": "ILA003"
   },
   {
     "id": "HUA001",
@@ -1141,7 +1832,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "花蓮縣動物醫院名冊"
+    "source": "花蓮縣動物醫院名冊",
+    "legacyId": "HUA001"
   },
   {
     "id": "HUA002",
@@ -1152,7 +1844,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "花蓮縣動物醫院名冊"
+    "source": "花蓮縣動物醫院名冊",
+    "legacyId": "HUA002"
   },
   {
     "id": "HUA003",
@@ -1163,7 +1856,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "花蓮縣動物醫院名冊"
+    "source": "花蓮縣動物醫院名冊",
+    "legacyId": "HUA003"
   },
   {
     "id": "TTT001",
@@ -1174,7 +1868,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台東縣動物醫院名冊"
+    "source": "台東縣動物醫院名冊",
+    "legacyId": "TTT001"
   },
   {
     "id": "TTT002",
@@ -1185,7 +1880,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台東縣動物醫院名冊"
+    "source": "台東縣動物醫院名冊",
+    "legacyId": "TTT002"
   },
   {
     "id": "TTT003",
@@ -1196,7 +1892,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "台東縣動物醫院名冊"
+    "source": "台東縣動物醫院名冊",
+    "legacyId": "TTT003"
   },
   {
     "id": "PEN001",
@@ -1207,7 +1904,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "澎湖縣動物醫院名冊"
+    "source": "澎湖縣動物醫院名冊",
+    "legacyId": "PEN001"
   },
   {
     "id": "KIN001",
@@ -1218,7 +1916,8 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "金門縣動物醫院名冊"
+    "source": "金門縣動物醫院名冊",
+    "legacyId": "KIN001"
   },
   {
     "id": "LCC001",
@@ -1229,6 +1928,79 @@
     "category": "醫院",
     "rating": null,
     "is24h": false,
-    "source": "連江縣動物醫院名冊"
+    "source": "連江縣動物醫院名冊",
+    "legacyId": "LCC001"
+  },
+  {
+    "id": "KEL001",
+    "city": "基隆市",
+    "name": "臺大興安動物醫院",
+    "address": "基隆市信義區信二路43號1樓",
+    "phone": "02-2425-0231",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL001"
+  },
+  {
+    "id": "KEL002",
+    "city": "基隆市",
+    "name": "台大良一動物醫院",
+    "address": "基隆市信義區義九路2號",
+    "phone": "02-2426-3021",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL002"
+  },
+  {
+    "id": "KEL003",
+    "city": "基隆市",
+    "name": "東尚動物醫院",
+    "address": "基隆市信義區東明路159號",
+    "phone": "02-2465-3088",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL003"
+  },
+  {
+    "id": "KEL004",
+    "city": "基隆市",
+    "name": "旺旺犬貓及特殊寵物專科醫院",
+    "address": "基隆市信義區中興路26號",
+    "phone": "02-2427-0563",
+    "category": "醫院",
+    "rating": null,
+    "is24h": true,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL004"
+  },
+  {
+    "id": "KEL005",
+    "city": "基隆市",
+    "name": "林犬貓專科醫院",
+    "address": "基隆市信義區信二路87號",
+    "phone": "02-2429-1552",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL005"
+  },
+  {
+    "id": "KEL006",
+    "city": "基隆市",
+    "name": "祥恩動物醫院",
+    "address": "基隆市信義區深美街91號",
+    "phone": "02-2465-5632",
+    "category": "醫院",
+    "rating": null,
+    "is24h": false,
+    "source": "基隆市動物保護防疫所",
+    "legacyId": "KEL006"
   }
 ]
