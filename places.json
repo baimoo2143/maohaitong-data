@@ -15882,5 +15882,286 @@
     "rating": null,
     "is24h": false,
     "source": "臺中市政府公告：合法登記之動物醫院名冊"
+  },
+  {
+    "id": "TPE013",
+    "city": "台北市",
+    "name": "伊甸動物醫院（中山區）",
+    "address": "北安路554巷33號1樓",
+    "phone": "02-8509-2579",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TPE014",
+    "city": "台北市",
+    "name": "龍江太僕動物醫院（中山區）",
+    "address": "龍江路260號",
+    "phone": "0928-242-358 / 02-2517-0902",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "TPE015",
+    "city": "台北市",
+    "name": "杜克動物醫院（大安區）",
+    "address": "和平東路三段117號",
+    "phone": "02-8732-4789",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "TPE016",
+    "city": "台北市",
+    "name": "慈愛動物醫院（大同區）",
+    "address": "寧夏路1號",
+    "phone": "02-2556-3320",
+    "category": "24H醫院",
+    "rating": 4.4,
+    "is24h": true
+  },
+  {
+    "id": "TPE017",
+    "city": "台北市",
+    "name": "全民動物醫院（大同區）",
+    "address": "民生西路249號",
+    "phone": "02-2553-0303 / 02-2553-0371",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TPE018",
+    "city": "台北市",
+    "name": "展望動物醫院（萬華區）",
+    "address": "中華路二段二號",
+    "phone": "02-2388-0122",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "TPE019",
+    "city": "台北市",
+    "name": "全國動物醫院台北分院（內湖區）",
+    "address": "舊宗路一段30巷13號",
+    "phone": "02-8791-8706",
+    "category": "24H醫院",
+    "rating": 4.7,
+    "is24h": true
+  },
+  {
+    "id": "TPE020",
+    "city": "台北市",
+    "name": "興泰動物醫院（松山區）",
+    "address": "延吉街57號",
+    "phone": "02-2579-5722",
+    "category": "24H醫院",
+    "rating": 4.4,
+    "is24h": true
+  },
+  {
+    "id": "TPE021",
+    "city": "台北市",
+    "name": "大群動物醫院（文山區）",
+    "address": "羅斯福路六段206號",
+    "phone": "02-2930-5557",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TPE022",
+    "city": "台北市",
+    "name": "布達羊急診動物醫院（士林區）",
+    "address": "忠誠路一段102號",
+    "phone": "02-2834-1119",
+    "category": "24H醫院",
+    "rating": 4.8,
+    "is24h": true
+  },
+  {
+    "id": "TPE023",
+    "city": "台北市",
+    "name": "阿牛犬貓急診醫院（士林區）",
+    "address": "基河路238號1樓",
+    "phone": "02-2881-0478",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "NTP005",
+    "city": "新北市",
+    "name": "牧村動物醫院（板橋區）",
+    "address": "中山路二段28號",
+    "phone": "02-8951-1172",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "NTP006",
+    "city": "新北市",
+    "name": "中日動物醫院（中和區）",
+    "address": "中山路三段2號",
+    "phone": "02-2226-3639",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "NTP007",
+    "city": "新北市",
+    "name": "上弦24HR動物醫院（林口區）",
+    "address": "忠福路129號",
+    "phone": "02-2609-0119",
+    "category": "24H醫院",
+    "rating": 4.7,
+    "is24h": true
+  },
+  {
+    "id": "TYN008",
+    "city": "桃園市",
+    "name": "品湛動物醫院（桃園區）",
+    "address": "民生路495-9號",
+    "phone": "03-336-3252",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TYN009",
+    "city": "桃園市",
+    "name": "元氣動物醫院三民總院（桃園區）",
+    "address": "三民路三段381號",
+    "phone": "03-3333-816",
+    "category": "24H醫院",
+    "rating": 4.7,
+    "is24h": true
+  },
+  {
+    "id": "TYN010",
+    "city": "桃園市",
+    "name": "青谷動物醫院（中壢區）",
+    "address": "洽溪路179號",
+    "phone": "03-2877-119",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "TYN011",
+    "city": "桃園市",
+    "name": "磨鼻子動物醫院（中壢區）",
+    "address": "延平路20號",
+    "phone": "03-453-5740",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "HSC005",
+    "city": "新竹市",
+    "name": "全天候動物醫院（東區）",
+    "address": "關新路225號一樓",
+    "phone": "03-668-6356",
+    "category": "24H醫院",
+    "rating": 4.7,
+    "is24h": true
+  },
+  {
+    "id": "TXG009",
+    "city": "台中市",
+    "name": "全國動物醫院台中總院（西區）",
+    "address": "五權八街100號",
+    "phone": "04-2371-0496",
+    "category": "24H醫院",
+    "rating": 4.8,
+    "is24h": true
+  },
+  {
+    "id": "TXG010",
+    "city": "台中市",
+    "name": "格林威治動物醫院（南屯區）",
+    "address": "文心路一段486號",
+    "phone": "04-2320-2279",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "TXG011",
+    "city": "台中市",
+    "name": "康德動物醫院（北屯區）",
+    "address": "崇德路二段270號",
+    "phone": "04-2241-2700",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TNN006",
+    "city": "台南市",
+    "name": "全國動物醫院台南分院（東區）",
+    "address": "崇德路620號2樓",
+    "phone": "06-2673-191",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "TNN007",
+    "city": "台南市",
+    "name": "慈愛動物醫院台南總院（南區）",
+    "address": "西門路一段473號",
+    "phone": "06-2203-166",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "KHH007",
+    "city": "高雄市",
+    "name": "宏力動物醫院（三民區）",
+    "address": "明誠一路326號",
+    "phone": "07-310-2819",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
+  },
+  {
+    "id": "KHH008",
+    "city": "高雄市",
+    "name": "梅西動物醫療中心（左營區）",
+    "address": "文府路498號",
+    "phone": "07-350-2020",
+    "category": "24H醫院",
+    "rating": 4.7,
+    "is24h": true
+  },
+  {
+    "id": "KHH009",
+    "city": "高雄市",
+    "name": "烏鐸動物醫院（苓雅區）",
+    "address": "中正一路139號",
+    "phone": "07-722-0804",
+    "category": "24H醫院",
+    "rating": 4.5,
+    "is24h": true
+  },
+  {
+    "id": "KHH010",
+    "city": "高雄市",
+    "name": "冠安動物醫院（苓雅區）",
+    "address": "中正二路131-1號",
+    "phone": "07-223-6451",
+    "category": "24H醫院",
+    "rating": 4.6,
+    "is24h": true
   }
 ]
+
