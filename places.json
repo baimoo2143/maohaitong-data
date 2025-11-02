@@ -1,38 +1,5 @@
 [
   {
-    "id": "NTC001",
-    "city": "南投縣",
-    "name": "東南動物醫院",
-    "address": "南投縣南投市復興路98號",
-    "phone": "049-2236287",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站"
-  },
-  {
-    "id": "NTC002",
-    "city": "南投縣",
-    "name": "達特朗動物醫院",
-    "address": "南投縣南投市祖祠路75號",
-    "phone": "049-2200605",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站"
-  },
-  {
-    "id": "NTC003",
-    "city": "南投縣",
-    "name": "佑犬動物醫院",
-    "address": "南投縣南投市虎山路58號",
-    "phone": "049-2351442",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "南投縣家畜疾病防治所 本縣動物醫院暨寵物登記站"
-  },
-  {
     "id": "TPE001",
     "city": "台北市",
     "name": "博愛動物醫院",
