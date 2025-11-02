@@ -4785,39 +4785,6 @@
     "source": "嘉義縣政府公告：獸醫診療機構（寵物）"
   },
   {
-    "id": "ILA001",
-    "city": "宜蘭縣",
-    "name": "博仁動物醫院",
-    "address": "宜蘭縣宜蘭市中山路三段208號",
-    "phone": "03-9353083",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
-  },
-  {
-    "id": "ILA002",
-    "city": "宜蘭縣",
-    "name": "愛心動物醫院",
-    "address": "宜蘭縣羅東鎮南昌街163號",
-    "phone": "03-9545290",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
-  },
-  {
-    "id": "ILA003",
-    "city": "宜蘭縣",
-    "name": "羅東動物醫院",
-    "address": "宜蘭縣羅東鎮公正路232號",
-    "phone": "03-9543930",
-    "category": "醫院",
-    "rating": null,
-    "is24h": false,
-    "source": "宜蘭縣動物醫院名冊"
-  },
-  {
     "id": "PIF001",
     "city": "屏東縣",
     "name": "屏東動物醫院",
