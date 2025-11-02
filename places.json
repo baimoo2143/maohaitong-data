@@ -16027,5 +16027,10 @@
 {"id":"HUA027","city":"花蓮縣","name":"慶豐動物醫院","address":"花蓮縣吉安鄉吉安路二段320號","phone":"03-8530737","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
 {"id":"HUA028","city":"花蓮縣","name":"樂悠動物醫院","address":"花蓮縣花蓮市中華路417號","phone":"03-8347720","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
 {"id":"HUA029","city":"花蓮縣","name":"蕙康動物醫院","address":"花蓮縣花蓮市信義街113-1號","phone":"03-8352122","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+{"id":"KIN001","city":"金門縣","name":"小宏動物醫院","address":"金門縣金寧鄉慈湖路一段113號","phone":"0921970381","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+{"id":"KIN002","city":"金門縣","name":"育宸動物醫院","address":"金門縣金城鎮民族路219號","phone":"082-371628","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+{"id":"KIN003","city":"金門縣","name":"旺旺動物醫院","address":"金門縣金城鎮民權路30巷2弄1號","phone":"0922962513","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+{"id":"KIN004","city":"金門縣","name":"金門同伴動物醫院","address":"金門縣金湖鎮山外里下莊光武路22號","phone":"082-331090","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+{"id":"KIN005","city":"金門縣","name":"金門縣野生動物救傷站","address":"金門縣金湖鎮南雄30號","phone":"","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"}
 
 ]
