@@ -16162,6 +16162,26 @@
     "category": "24H醫院",
     "rating": 4.6,
     "is24h": true
-  }
+  },
+  {"id":"KLS001","city":"基隆市","name":"七堵動物醫院","address":"基隆市七堵區明德一路125號","phone":"02-24565942","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS002","city":"基隆市","name":"三合動物醫院","address":"基隆市仁愛區南榮路353號","phone":"02-24274568","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS003","city":"基隆市","name":"中興動物醫院","address":"基隆市仁愛區仁一路237號","phone":"02-24262900","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS004","city":"基隆市","name":"犬貓屋動物醫院","address":"基隆市安樂區基金一路118號","phone":"02-24345975","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS005","city":"基隆市","name":"台大良一動物醫院","address":"基隆市信義區信一路35號","phone":"02-24263021","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS006","city":"基隆市","name":"台大長鴻動物醫院","address":"基隆市仁愛區仁一路149號","phone":"","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS007","city":"基隆市","name":"台大稚沅動物醫院","address":"基隆市中山區中山一路307號","phone":"02-24286784","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS008","city":"基隆市","name":"成安動物醫院","address":"基隆市成功二路54號","phone":"02-24233739","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS009","city":"基隆市","name":"汎汶動物醫院","address":"基隆市仁愛區仁四路17之1號","phone":"02-24260870","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS010","city":"基隆市","name":"辛巴動物醫院","address":"基隆市七堵區百六街7號","phone":"02-24514792","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS011","city":"基隆市","name":"旺旺犬貓及特殊寵物專科醫院","address":"基隆市信義區中興路26號","phone":"02-24270563","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS012","city":"基隆市","name":"東尚動物醫院","address":"基隆市東明路159號","phone":"02-24653088","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS013","city":"基隆市","name":"林犬貓專科醫院","address":"基隆市信義區信二路87號","phone":"02-24291552","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS014","city":"基隆市","name":"基隆愛犬醫院","address":"基隆市中正區義一路188號","phone":"02-24229214","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS015","city":"基隆市","name":"祥恩動物醫院","address":"基隆市信義區深美街91號","phone":"02-24655632","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS016","city":"基隆市","name":"祥霖動物醫院","address":"基隆市安樂區基金一路112巷63號","phone":"02-24311936","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS017","city":"基隆市","name":"喵喵TNR動物醫院","address":"基隆市中山區成功二路171號1樓","phone":"02-24250966","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS018","city":"基隆市","name":"慈仁動物醫院","address":"基隆市安樂區樂利二街62巷1號1樓","phone":"02-24286899","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS019","city":"基隆市","name":"新興動物醫院","address":"基隆市仁愛區仁一路119號","phone":"02-24295636","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"},
+  {"id":"KLS020","city":"基隆市","name":"臺大興安動物醫院","address":"基隆市信義區信二路43號1樓","phone":"02-24250231","category":"醫院","rating":null,"is24h":false,"source":"農業部動植物防疫檢疫署 獸醫診療機構查詢系統"}
 ]
 
